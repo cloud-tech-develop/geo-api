@@ -64,7 +64,7 @@ func main() {
 }
 
 func middleware(next http.Handler) http.Handler {
-	origin := env("CORS_ORIGIN", "*")
+	origin := "*"
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		start := time.Now()
 
