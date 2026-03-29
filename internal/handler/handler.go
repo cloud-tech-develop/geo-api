@@ -2,6 +2,7 @@ package handler
 
 import (
 	"encoding/json"
+	"fmt"
 	"net/http"
 	"strconv"
 
@@ -43,7 +44,10 @@ func (h *Handler) RegisterRoutes(mux *http.ServeMux) {
 
 func (h *Handler) RegisterAdminRoutes(mux *http.ServeMux) {
 	mux.HandleFunc("GET /admin/cities", BasicAuth(h.GetAllCities))
+	mux.HandleFunc("GET /admin/cities/export", BasicAuth(h.ExportCitiesCSV))
+	mux.HandleFunc("GET /admin/metadata/download", BasicAuth(h.DownloadMetadata))
 	mux.HandleFunc("PUT /admin/cities/{id}/metadata", BasicAuth(h.UpdateCityMetadata))
+	mux.HandleFunc("POST /admin/cities/bulk-metadata", BasicAuth(h.BulkUpdateMetadata))
 }
 
 // ─── Health & Stats ───────────────────────────────────────────────────────────
@@ -167,9 +171,9 @@ func (h *Handler) GetAllCities(w http.ResponseWriter, r *http.Request) {
 	state := queryInt(r, "state", 0)
 	page := queryInt(r, "page", 1)
 	limit := queryInt(r, "limit", 50)
-	
+
 	cities, total := h.repo.GetAllCities(search, country, state, page, limit)
-	
+
 	writeJSON(w, http.StatusOK, model.PaginatedResponse{
 		Data:  cities,
 		Total: total,
@@ -197,6 +201,75 @@ func (h *Handler) UpdateCityMetadata(w http.ResponseWriter, r *http.Request) {
 	}
 
 	writeJSON(w, http.StatusOK, map[string]string{"status": "updated"})
+}
+
+func (h *Handler) ExportCitiesCSV(w http.ResponseWriter, r *http.Request) {
+	search := r.URL.Query().Get("search")
+	country := r.URL.Query().Get("country")
+	state := queryInt(r, "state", 0)
+
+	cities, _ := h.repo.GetAllCities(search, country, state, 1, 1000000)
+
+	w.Header().Set("Content-Type", "text/csv")
+	w.Header().Set("Content-Disposition", "attachment; filename=cities.csv")
+
+	w.Write([]byte("id,name,country_code,state_code,latitude,longitude\n"))
+	for _, city := range cities {
+		w.Write([]byte(fmt.Sprintf("%d,%s,%s,%s,%s,%s\n",
+			city.ID,
+			escapeCSV(city.Name),
+			city.CountryCode,
+			city.StateCode,
+			city.Latitude,
+			city.Longitude,
+		)))
+	}
+}
+
+func (h *Handler) BulkUpdateMetadata(w http.ResponseWriter, r *http.Request) {
+	var req model.BulkMetadataRequest
+	if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+		writeError(w, http.StatusBadRequest, "invalid json body")
+		return
+	}
+
+	if len(req.Updates) == 0 {
+		writeError(w, http.StatusBadRequest, "no updates provided")
+		return
+	}
+
+	result := h.repo.BulkUpdateMetadata(req.Updates)
+	writeJSON(w, http.StatusOK, result)
+}
+
+func (h *Handler) DownloadMetadata(w http.ResponseWriter, r *http.Request) {
+	http.ServeFile(w, r, h.repo.GetMetadataPath())
+}
+
+func escapeCSV(s string) string {
+	if s == "" {
+		return s
+	}
+	needsQuotes := false
+	for _, c := range s {
+		if c == ',' || c == '"' || c == '\n' || c == '\r' {
+			needsQuotes = true
+			break
+		}
+	}
+	if !needsQuotes {
+		return s
+	}
+	result := "\""
+	for _, c := range s {
+		if c == '"' {
+			result += "\"\""
+		} else {
+			result += string(c)
+		}
+	}
+	result += "\""
+	return result
 }
 
 // ─── helpers ─────────────────────────────────────────────────────────────────

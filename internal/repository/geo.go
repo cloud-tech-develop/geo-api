@@ -25,6 +25,10 @@ type GeoRepository struct {
 	cityByID      map[int]*model.CityRaw
 }
 
+func (r *GeoRepository) GetMetadataPath() string {
+	return r.metadataPath
+}
+
 // New loads the dataset from the given JSON file path and builds indexes.
 func New(dataPath, metadataPath string) (*GeoRepository, error) {
 	data, err := os.ReadFile(dataPath)
@@ -54,20 +58,32 @@ func New(dataPath, metadataPath string) (*GeoRepository, error) {
 		for j := range c.States {
 			s := &c.States[j]
 			repo.stateByID[s.ID] = s
-			
+
 			// Fill state with country info if missing
-			if s.CountryCode == "" { s.CountryCode = c.ISO2 }
-			if s.CountryID == 0 { s.CountryID = c.ID }
+			if s.CountryCode == "" {
+				s.CountryCode = c.ISO2
+			}
+			if s.CountryID == 0 {
+				s.CountryID = c.ID
+			}
 
 			for k := range s.Cities {
 				city := &s.Cities[k]
-				
+
 				// CRITICAL: Propagate parent info to the city
 				// (Often missing in nested JSON structures)
-				if city.CountryCode == "" { city.CountryCode = c.ISO2 }
-				if city.CountryID == 0 { city.CountryID = c.ID }
-				if city.StateID == 0 { city.StateID = s.ID }
-				if city.StateCode == "" { city.StateCode = s.StateCode }
+				if city.CountryCode == "" {
+					city.CountryCode = c.ISO2
+				}
+				if city.CountryID == 0 {
+					city.CountryID = c.ID
+				}
+				if city.StateID == 0 {
+					city.StateID = s.ID
+				}
+				if city.StateCode == "" {
+					city.StateCode = s.StateCode
+				}
 
 				repo.cityByID[city.ID] = city
 			}
@@ -109,23 +125,11 @@ func (r *GeoRepository) loadMetadata() error {
 
 func (r *GeoRepository) saveMetadata() error {
 	r.mu.RLock()
-	metadata := make(map[int]map[string]any)
-	for id, city := range r.cityByID {
-		if len(city.Metadata) > 0 {
-			metadata[id] = city.Metadata
-		}
-	}
-	r.mu.RUnlock()
-
-	data, err := json.MarshalIndent(metadata, "", "  ")
-	if err != nil {
-		return err
-	}
-
-	return os.WriteFile(r.metadataPath, data, 0644)
+	defer r.mu.RUnlock()
+	return r.saveMetadataLocked()
 }
 
-// UpdateCityMetadata updates metadata for a specific city and saves to disk.
+// UpdateCityMetadata updates metadata for a specific city (merges with existing).
 func (r *GeoRepository) UpdateCityMetadata(id int, metadata map[string]any) error {
 	r.mu.Lock()
 	city, ok := r.cityByID[id]
@@ -133,10 +137,74 @@ func (r *GeoRepository) UpdateCityMetadata(id int, metadata map[string]any) erro
 		r.mu.Unlock()
 		return fmt.Errorf("city with ID %d not found", id)
 	}
-	city.Metadata = metadata
+	if city.Metadata == nil {
+		city.Metadata = make(map[string]any)
+	}
+	for k, v := range metadata {
+		city.Metadata[k] = v
+	}
 	r.mu.Unlock()
 
 	return r.saveMetadata()
+}
+
+type BulkUpdateResult struct {
+	Updated int `json:"updated"`
+	Failed  int `json:"failed"`
+	Errors  []struct {
+		ID    int    `json:"id"`
+		Error string `json:"error"`
+	} `json:"errors,omitempty"`
+}
+
+func (r *GeoRepository) BulkUpdateMetadata(updates []model.BulkMetadataUpdate) BulkUpdateResult {
+	r.mu.Lock()
+	defer r.mu.Unlock()
+
+	result := BulkUpdateResult{}
+	for _, update := range updates {
+		city, ok := r.cityByID[update.ID]
+		if !ok {
+			result.Failed++
+			result.Errors = append(result.Errors, struct {
+				ID    int    `json:"id"`
+				Error string `json:"error"`
+			}{update.ID, "city not found"})
+			continue
+		}
+		if city.Metadata == nil {
+			city.Metadata = make(map[string]any)
+		}
+		for k, v := range update.Metadata {
+			city.Metadata[k] = v
+		}
+		result.Updated++
+	}
+
+	if err := r.saveMetadataLocked(); err != nil {
+		result.Errors = append(result.Errors, struct {
+			ID    int    `json:"id"`
+			Error string `json:"error"`
+		}{0, fmt.Sprintf("failed to save: %v", err)})
+	}
+
+	return result
+}
+
+func (r *GeoRepository) saveMetadataLocked() error {
+	metadata := make(map[int]map[string]any)
+	for id, city := range r.cityByID {
+		if len(city.Metadata) > 0 {
+			metadata[id] = city.Metadata
+		}
+	}
+
+	data, err := json.MarshalIndent(metadata, "", "  ")
+	if err != nil {
+		return err
+	}
+
+	return os.WriteFile(r.metadataPath, data, 0644)
 }
 
 // ─── Countries ────────────────────────────────────────────────────────────────
@@ -198,7 +266,7 @@ func (r *GeoRepository) GetAllCities(search, country string, state int, page, li
 	search = strings.ToLower(search)
 	country = strings.ToUpper(country)
 	var filtered []model.CitySummary
-	
+
 	for _, city := range r.cityByID {
 		// Filter by search name
 		if search != "" && !strings.Contains(strings.ToLower(city.Name), search) {
@@ -212,12 +280,12 @@ func (r *GeoRepository) GetAllCities(search, country string, state int, page, li
 		if state > 0 && city.StateID != state {
 			continue
 		}
-		
+
 		filtered = append(filtered, toCitySummary(*city))
 	}
 
 	total := len(filtered)
-	
+
 	// Sort by name, then by ID to ensure stable pagination
 	sort.Slice(filtered, func(i, j int) bool {
 		if filtered[i].Name != filtered[j].Name {
@@ -228,7 +296,9 @@ func (r *GeoRepository) GetAllCities(search, country string, state int, page, li
 
 	// Simple pagination
 	start := (page - 1) * limit
-	if start < 0 { start = 0 }
+	if start < 0 {
+		start = 0
+	}
 	if start >= total {
 		return []model.CitySummary{}, total
 	}
@@ -281,15 +351,15 @@ func (r *GeoRepository) GetCitiesByCountry(iso2, search string) ([]model.CitySum
 }
 
 func (r *GeoRepository) GetCityByID(id int) (*model.CitySummary, bool) {
-    r.mu.RLock()
-    defer r.mu.RUnlock()
-    
-    city, ok := r.cityByID[id]
-    if !ok {
-        return nil, false
-    }
-    s := toCitySummary(*city)
-    return &s, true
+	r.mu.RLock()
+	defer r.mu.RUnlock()
+
+	city, ok := r.cityByID[id]
+	if !ok {
+		return nil, false
+	}
+	s := toCitySummary(*city)
+	return &s, true
 }
 
 // ─── Stats ────────────────────────────────────────────────────────────────────

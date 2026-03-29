@@ -2,6 +2,8 @@ let currentCities = [];
 let editingCityId = null;
 let currentPage = 1;
 const limit = 20;
+let bulkData = [];
+let bulkMetadataFields = [];
 
 const searchInput = document.getElementById('search-input');
 const countryFilter = document.getElementById('country-filter');
@@ -193,6 +195,242 @@ async function saveMetadata() {
         console.error('Error saving metadata:', error);
         alert('Error saving metadata');
     }
+}
+
+function downloadCSV() {
+    const country = countryFilter.value;
+    const state = stateFilter.value;
+    const search = searchInput.value;
+    
+    let url = `/admin/cities/export`;
+    const params = [];
+    if (search) params.push(`search=${encodeURIComponent(search)}`);
+    if (country) params.push(`country=${country}`);
+    if (state) params.push(`state=${state}`);
+    if (params.length > 0) url += '?' + params.join('&');
+    
+    window.open(url, '_blank');
+}
+
+function downloadMetadataJSON() {
+    window.open('/admin/metadata/download', '_blank');
+}
+
+function handleCSVUpload(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        const content = e.target.result;
+        parseCSV(content);
+    };
+    reader.readAsText(file);
+}
+
+function parseCSV(content) {
+    const lines = content.split('\n').filter(line => line.trim());
+    if (lines.length < 2) {
+        alert('CSV file is empty or invalid');
+        return;
+    }
+
+    const headers = parseCSVLine(lines[0]);
+    bulkData = [];
+    
+    for (let i = 1; i < lines.length; i++) {
+        const values = parseCSVLine(lines[i]);
+        const row = {};
+        headers.forEach((header, index) => {
+            row[header.trim().toLowerCase()] = values[index] || '';
+        });
+        if (row.id) {
+            bulkData.push(row);
+        }
+    }
+
+    if (bulkData.length === 0) {
+        alert('No valid data found in CSV. Make sure the CSV has an "id" column.');
+        return;
+    }
+
+    detectMetadataFields();
+    openBulkPreview();
+}
+
+function parseCSVLine(line) {
+    const result = [];
+    let current = '';
+    let inQuotes = false;
+    
+    for (let i = 0; i < line.length; i++) {
+        const char = line[i];
+        if (char === '"') {
+            if (inQuotes && line[i + 1] === '"') {
+                current += '"';
+                i++;
+            } else {
+                inQuotes = !inQuotes;
+            }
+        } else if (char === ',' && !inQuotes) {
+            result.push(current);
+            current = '';
+        } else {
+            current += char;
+        }
+    }
+    result.push(current);
+    return result;
+}
+
+function detectMetadataFields() {
+    const excludeFields = ['id', 'name', 'country_code', 'state_code', 'latitude', 'longitude', 'countryid', 'stateid', 'state_id'];
+    bulkMetadataFields = [];
+    
+    for (const row of bulkData) {
+        for (const key of Object.keys(row)) {
+            if (!excludeFields.includes(key.toLowerCase()) && row[key].trim()) {
+                if (!bulkMetadataFields.includes(key)) {
+                    bulkMetadataFields.push(key);
+                }
+            }
+        }
+    }
+}
+
+function openBulkPreview() {
+    if (bulkData.length === 0) {
+        alert('No data to preview. Please upload a CSV file first.');
+        return;
+    }
+
+    const tbody = document.getElementById('bulk-preview-body');
+    tbody.innerHTML = '';
+
+    bulkData.forEach((row, index) => {
+        const metadata = {};
+        bulkMetadataFields.forEach(field => {
+            if (row[field] && row[field].trim()) {
+                metadata[field] = row[field].trim();
+            }
+        });
+
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+            <td style="padding: 0.5rem; border-bottom: 1px solid var(--border);">${row.id}</td>
+            <td style="padding: 0.5rem; border-bottom: 1px solid var(--border);">${row.name || 'N/A'}</td>
+            <td style="padding: 0.5rem; border-bottom: 1px solid var(--border); font-size: 0.75rem;">
+                ${Object.keys(metadata).map(k => `<span style="background: #312e81; color: #c7d2fe; padding: 2px 4px; border-radius: 3px; margin-right: 4px;">${k}: ${metadata[k]}</span>`).join('')}
+                ${Object.keys(metadata).length === 0 ? '<span style="color: var(--text-muted);">No metadata</span>' : ''}
+            </td>
+            <td style="padding: 0.5rem; border-bottom: 1px solid var(--border);" id="bulk-status-${index}">
+                <span style="color: var(--text-muted);">Pending</span>
+            </td>
+        `;
+        tbody.appendChild(tr);
+    });
+
+    const validCount = bulkData.filter(row => {
+        return bulkMetadataFields.some(field => row[field] && row[field].trim());
+    }).length;
+
+    document.getElementById('bulk-summary').innerHTML = `
+        <strong>Summary:</strong> ${validCount} of ${bulkData.length} cities will be updated.<br>
+        <span style="font-size: 0.75rem; color: var(--text-muted);">
+            Detected metadata fields: ${bulkMetadataFields.join(', ') || 'None'}
+        </span>
+    `;
+
+    document.getElementById('bulk-modal').classList.add('active');
+}
+
+function closeBulkModal() {
+    document.getElementById('bulk-modal').classList.remove('active');
+    bulkData = [];
+    bulkMetadataFields = [];
+    document.getElementById('csv-upload').value = '';
+}
+
+async function uploadBulkMetadata() {
+    const btn = document.getElementById('bulk-upload-btn');
+    btn.disabled = true;
+    btn.textContent = 'Uploading...';
+
+    const updates = [];
+    bulkData.forEach((row, index) => {
+        const metadata = {};
+        let hasMetadata = false;
+        
+        bulkMetadataFields.forEach(field => {
+            if (row[field] && row[field].trim()) {
+                metadata[field] = row[field].trim();
+                hasMetadata = true;
+            }
+        });
+
+        if (hasMetadata && row.id) {
+            updates.push({
+                id: parseInt(row.id),
+                metadata: metadata
+            });
+            document.getElementById(`bulk-status-${index}`).innerHTML = '<span style="color: #facc15;">Updating...</span>';
+        } else {
+            document.getElementById(`bulk-status-${index}`).innerHTML = '<span style="color: var(--text-muted);">Skipped</span>';
+        }
+    });
+
+    if (updates.length === 0) {
+        alert('No valid updates to upload');
+        btn.disabled = false;
+        btn.textContent = 'Upload Changes';
+        return;
+    }
+
+    try {
+        const response = await fetch('/admin/cities/bulk-metadata', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ updates })
+        });
+
+        const result = await response.json();
+        
+        let successCount = 0;
+        let failCount = 0;
+        
+        updates.forEach((update, index) => {
+            const statusEl = document.getElementById(`bulk-status-${index}`);
+            const wasUpdated = !result.errors || !result.errors.some(e => e.id === update.id);
+            
+            if (wasUpdated) {
+                successCount++;
+                statusEl.innerHTML = '<span class="bulk-success">Success</span>';
+            } else {
+                failCount++;
+                const error = result.errors?.find(e => e.id === update.id);
+                statusEl.innerHTML = `<span class="bulk-error" title="${error?.error || 'Error'}">Failed</span>`;
+            }
+        });
+
+        document.getElementById('bulk-summary').innerHTML = `
+            <strong>Upload Complete:</strong><br>
+            <span style="color: #4ade80;">${successCount} updated successfully</span><br>
+            ${failCount > 0 ? `<span style="color: #ef4444;">${failCount} failed</span>` : ''}
+        `;
+
+        if (successCount > 0) {
+            setTimeout(() => {
+                closeBulkModal();
+                fetchCities(searchInput.value, currentPage);
+            }, 1500);
+        }
+    } catch (error) {
+        console.error('Error uploading bulk metadata:', error);
+        alert('Failed to upload metadata');
+    }
+
+    btn.disabled = false;
+    btn.textContent = 'Upload Changes';
 }
 
 init();

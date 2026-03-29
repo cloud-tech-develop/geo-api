@@ -27,7 +27,6 @@ vendor/
 *.swo
 
 # Data files (downloaded separately)
-data/*.json
 !data/.gitkeep
 
 # OS

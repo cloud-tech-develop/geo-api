@@ -10,7 +10,7 @@ import (
 func BasicAuth(next http.HandlerFunc) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		user, pass, ok := r.BasicAuth()
-		
+
 		adminUser := os.Getenv("ADMIN_USER")
 		adminPass := os.Getenv("ADMIN_PASSWORD")
 

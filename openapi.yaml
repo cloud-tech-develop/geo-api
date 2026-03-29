@@ -2,7 +2,7 @@ openapi: 3.0.3
 info:
   title: Geo API
   description: API for countries, states, and cities with metadata editing.
-  version: 1.0.0
+  version: 1.1.0
 servers:
   - url: http://localhost:8080
     description: Local server
@@ -230,6 +230,75 @@ paths:
         '401':
           description: Unauthorized
 
+  /admin/cities/export:
+    get:
+      summary: "[ADMIN] Export cities as CSV for bulk metadata editing"
+      security:
+        - basicAuth: []
+      parameters:
+        - name: search
+          in: query
+          schema:
+            type: string
+        - name: country
+          in: query
+          description: Filter by ISO2 country code
+          schema:
+            type: string
+        - name: state
+          in: query
+          description: Filter by State ID
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: CSV file download
+          content:
+            text/csv:
+              schema:
+                type: string
+                format: binary
+        '401':
+          description: Unauthorized
+
+  /admin/cities/bulk-metadata:
+    post:
+      summary: "[ADMIN] Bulk update city metadata"
+      security:
+        - basicAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/BulkMetadataRequest'
+      responses:
+        '200':
+          description: Bulk update result
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BulkUpdateResult'
+        '400':
+          description: Invalid request
+        '401':
+          description: Unauthorized
+
+  /admin/metadata/download:
+    get:
+      summary: "[ADMIN] Download metadata JSON file"
+      security:
+        - basicAuth: []
+      responses:
+        '200':
+          description: JSON file download
+          content:
+            application/json:
+              schema:
+                type: object
+        '401':
+          description: Unauthorized
+
 components:
   securitySchemes:
     basicAuth:
@@ -321,3 +390,38 @@ components:
               type: array
               items:
                 $ref: '#/components/schemas/CitySummary'
+
+    BulkMetadataRequest:
+      type: object
+      properties:
+        updates:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: integer
+                description: City ID
+              metadata:
+                type: object
+                additionalProperties: true
+                description: Metadata fields to set
+
+    BulkUpdateResult:
+      type: object
+      properties:
+        updated:
+          type: integer
+          description: Number of cities updated
+        failed:
+          type: integer
+          description: Number of cities that failed
+        errors:
+          type: array
+          items:
+            type: object
+            properties:
+              id:
+                type: integer
+              error:
+                type: string

@@ -1,0 +1,15 @@
+services:
+  geo-api:
+    build: .
+    container_name: geo-api
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
+      - GEO_DATA_PATH=data/countries+states+cities.json
+      - METADATA_PATH=data/cities_metadata.json
+      - ADMIN_USER=${ADMIN_USER:-admin}
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-admin}
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

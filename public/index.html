@@ -28,6 +28,21 @@
                     <option value="">All States</option>
                 </select>
             </div>
+            <div class="bulk-actions">
+                <button class="btn btn-secondary" onclick="downloadCSV()">
+                    Download CSV
+                </button>
+                <button class="btn btn-secondary" onclick="downloadMetadataJSON()">
+                    Download Metadata
+                </button>
+                <label class="btn btn-secondary upload-btn">
+                    Upload CSV for Metadata
+                    <input type="file" id="csv-upload" accept=".csv" style="display: none;" onchange="handleCSVUpload(event)">
+                </label>
+                <button class="btn btn-secondary" onclick="openBulkPreview()">
+                    Preview & Upload
+                </button>
+            </div>
         </div>
 
         <div id="city-list" class="city-list">
@@ -56,6 +71,35 @@
             <div class="modal-footer">
                 <button class="btn btn-secondary" style="background: var(--border); color: white;" onclick="closeModal()">Cancel</button>
                 <button class="btn btn-primary" onclick="saveMetadata()">Save Changes</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for bulk metadata preview -->
+    <div id="bulk-modal" class="modal">
+        <div class="modal-content" style="max-width: 800px;">
+            <div class="modal-header">
+                <h2>Bulk Metadata Upload</h2>
+                <p class="text-muted">Review the changes before uploading</p>
+            </div>
+            <div style="max-height: 400px; overflow-y: auto; border: 1px solid var(--border); border-radius: 0.5rem; margin-bottom: 1rem;">
+                <table style="width: 100%; border-collapse: collapse; font-size: 0.875rem;">
+                    <thead style="position: sticky; top: 0; background: var(--card);">
+                        <tr>
+                            <th style="text-align: left; padding: 0.75rem; border-bottom: 1px solid var(--border);">ID</th>
+                            <th style="text-align: left; padding: 0.75rem; border-bottom: 1px solid var(--border);">City</th>
+                            <th style="text-align: left; padding: 0.75rem; border-bottom: 1px solid var(--border);">Metadata</th>
+                            <th style="text-align: left; padding: 0.75rem; border-bottom: 1px solid var(--border);">Status</th>
+                        </tr>
+                    </thead>
+                    <tbody id="bulk-preview-body">
+                    </tbody>
+                </table>
+            </div>
+            <div id="bulk-summary" style="margin-bottom: 1rem; padding: 1rem; background: var(--bg); border-radius: 0.5rem;"></div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" style="background: var(--border); color: white;" onclick="closeBulkModal()">Cancel</button>
+                <button class="btn btn-primary" id="bulk-upload-btn" onclick="uploadBulkMetadata()">Upload Changes</button>
             </div>
         </div>
     </div>

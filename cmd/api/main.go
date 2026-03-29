@@ -43,7 +43,7 @@ func main() {
 
 	// Admin routes and Static Web Dashboard
 	h.RegisterAdminRoutes(mux)
-	
+
 	// Handle static dashboard at root
 	fs := http.FileServer(http.Dir("./public"))
 	mux.Handle("/", fs)

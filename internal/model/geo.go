@@ -26,20 +26,20 @@ type StateRaw struct {
 }
 
 type CountryRaw struct {
-	ID          int        `json:"id"`
-	Name        string     `json:"name"`
-	ISO2        string     `json:"iso2"`
-	ISO3        string     `json:"iso3"`
-	PhoneCode   string     `json:"phone_code"`
-	Capital     string     `json:"capital"`
-	Currency    string     `json:"currency"`
-	CurrencyName string    `json:"currency_name"`
-	Region      string     `json:"region"`
-	Subregion   string     `json:"subregion"`
-	Latitude    string     `json:"latitude"`
-	Longitude   string     `json:"longitude"`
-	Emoji       string     `json:"emoji"`
-	States      []StateRaw `json:"states"`
+	ID           int        `json:"id"`
+	Name         string     `json:"name"`
+	ISO2         string     `json:"iso2"`
+	ISO3         string     `json:"iso3"`
+	PhoneCode    string     `json:"phone_code"`
+	Capital      string     `json:"capital"`
+	Currency     string     `json:"currency"`
+	CurrencyName string     `json:"currency_name"`
+	Region       string     `json:"region"`
+	Subregion    string     `json:"subregion"`
+	Latitude     string     `json:"latitude"`
+	Longitude    string     `json:"longitude"`
+	Emoji        string     `json:"emoji"`
+	States       []StateRaw `json:"states"`
 }
 
 // ─── API response shapes ───────────────────────────────────────────────────────
@@ -88,4 +88,13 @@ type PaginatedResponse struct {
 	Total int `json:"total"`
 	Page  int `json:"page"`
 	Limit int `json:"limit"`
+}
+
+type BulkMetadataUpdate struct {
+	ID       int            `json:"id"`
+	Metadata map[string]any `json:"metadata"`
+}
+
+type BulkMetadataRequest struct {
+	Updates []BulkMetadataUpdate `json:"updates"`
 }
