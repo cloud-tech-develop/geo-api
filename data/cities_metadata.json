@@ -1,0 +1,6650 @@
+{
+  "143877": {
+    "dane_code": "41006",
+    "dane_name_oficial": "Acevedo",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143878": {
+    "dane_code": "41016",
+    "dane_name_oficial": "Aipe",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143879": {
+    "dane_code": "41020",
+    "dane_name_oficial": "Algeciras",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143880": {
+    "dane_code": "41026",
+    "dane_name_oficial": "Altamira",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143881": {
+    "dane_code": "41078",
+    "dane_name_oficial": "Baraya",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143882": {
+    "dane_code": "41132",
+    "dane_name_oficial": "Campoalegre",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143883": {
+    "dane_code": "41206",
+    "dane_name_oficial": "Colombia",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143885": {
+    "dane_code": "41244",
+    "dane_name_oficial": "Elías",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143886": {
+    "dane_code": "41298",
+    "dane_name_oficial": "Garzón",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143887": {
+    "dane_code": "41306",
+    "dane_name_oficial": "Gigante",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143888": {
+    "dane_code": "68320",
+    "dane_name_oficial": "Guadalupe",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "143889": {
+    "dane_code": "41349",
+    "dane_name_oficial": "Hobo",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143890": {
+    "dane_code": "41357",
+    "dane_name_oficial": "Iquira",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143891": {
+    "dane_code": "41359",
+    "dane_name_oficial": "Isnos",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143892": {
+    "dane_code": "41396",
+    "dane_name_oficial": "La Plata",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143893": {
+    "dane_code": "41483",
+    "dane_name_oficial": "Nátaga",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143894": {
+    "dane_code": "41001",
+    "dane_name_oficial": "Neiva",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143895": {
+    "dane_code": "41503",
+    "dane_name_oficial": "Oporapa",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143896": {
+    "dane_code": "41518",
+    "dane_name_oficial": "Paicol",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143897": {
+    "dane_code": "41524",
+    "dane_name_oficial": "Palermo",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143898": {
+    "dane_code": "41530",
+    "dane_name_oficial": "Palestina",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143899": {
+    "dane_code": "41548",
+    "dane_name_oficial": "Pital",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143900": {
+    "dane_code": "41551",
+    "dane_name_oficial": "Pitalito",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143901": {
+    "dane_code": "41615",
+    "dane_name_oficial": "Rivera",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143902": {
+    "dane_code": "41660",
+    "dane_name_oficial": "Saladoblanco",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143903": {
+    "dane_code": "41668",
+    "dane_name_oficial": "San Agustín",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143904": {
+    "dane_code": "41676",
+    "dane_name_oficial": "Santa María",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143905": {
+    "dane_code": "41770",
+    "dane_name_oficial": "Suaza",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143906": {
+    "dane_code": "41791",
+    "dane_name_oficial": "Tarqui",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143907": {
+    "dane_code": "41799",
+    "dane_name_oficial": "Tello",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143908": {
+    "dane_code": "41801",
+    "dane_name_oficial": "Teruel",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143909": {
+    "dane_code": "41797",
+    "dane_name_oficial": "Tesalia",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143910": {
+    "dane_code": "41807",
+    "dane_name_oficial": "Timaná",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143911": {
+    "dane_code": "41872",
+    "dane_name_oficial": "Villavieja",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "143912": {
+    "dane_code": "41885",
+    "dane_name_oficial": "Yaguará",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "149237": {
+    "dane_code": "11001",
+    "dane_name_oficial": "Bogotá D.C.",
+    "dept_code": "11",
+    "dept_name": "Bogotá D.C."
+  },
+  "149238": {
+    "dane_code": "20060",
+    "dane_name_oficial": "Bosconia",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "149239": {
+    "dane_code": "70110",
+    "dane_name_oficial": "Buenavista",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "149240": {
+    "dane_code": "50270",
+    "dane_name_oficial": "El Dorado",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "149241": {
+    "dane_code": "19300",
+    "dane_name_oficial": "Guachené",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "149242": {
+    "dane_code": "41378",
+    "dane_name_oficial": "La Argentina",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "149243": {
+    "dane_code": "85136",
+    "dane_name_oficial": "La Salina",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "149244": {
+    "dane_code": "85250",
+    "dane_name_oficial": "Paz de Ariporo",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "149245": {
+    "dane_code": "19533",
+    "dane_name_oficial": "Piamonte",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "149246": {
+    "dane_code": "88564",
+    "dane_name_oficial": "Providencia",
+    "dept_code": "88",
+    "dept_name": "San Andrés y Providencia"
+  },
+  "149247": {
+    "dane_code": "20570",
+    "dane_name_oficial": "Pueblo Bello",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "149248": {
+    "dane_code": "86569",
+    "dane_name_oficial": "Puerto Caicedo",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "149249": {
+    "dane_code": "68720",
+    "dane_name_oficial": "Santa Helena del Opón",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "149250": {
+    "dane_code": "19701",
+    "dane_name_oficial": "Santa Rosa",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "149251": {
+    "dane_code": "23682",
+    "dane_name_oficial": "San José de Uré",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "149252": {
+    "dane_code": "50686",
+    "dane_name_oficial": "San Juanito",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "149253": {
+    "dane_code": "73678",
+    "dane_name_oficial": "San Luis",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "149254": {
+    "dane_code": "18753",
+    "dane_name_oficial": "San Vicente del Caguán",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "149255": {
+    "dane_code": "18785",
+    "dane_name_oficial": "Solita",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "149256": {
+    "dane_code": "54800",
+    "dane_name_oficial": "Teorama",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "149257": {
+    "dane_code": "19807",
+    "dane_name_oficial": "Timbío",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "149258": {
+    "dane_code": "23815",
+    "dane_name_oficial": "Tuchín",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "149259": {
+    "dane_code": "50370",
+    "dane_name_oficial": "Uribe",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "149260": {
+    "dane_code": "54871",
+    "dane_name_oficial": "Villa Caro",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20485": {
+    "dane_code": "5002",
+    "dane_name_oficial": "Abejorral",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20486": {
+    "dane_code": "54003",
+    "dane_name_oficial": "Ábrego",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20487": {
+    "dane_code": "5004",
+    "dane_name_oficial": "Abriaquí",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20488": {
+    "dane_code": "50006",
+    "dane_name_oficial": "Acacías",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20489": {
+    "dane_code": "27006",
+    "dane_name_oficial": "Acandí",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20490": {
+    "dane_code": "13006",
+    "dane_name_oficial": "Achí",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20491": {
+    "dane_code": "25001",
+    "dane_name_oficial": "Agua de Dios",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20492": {
+    "dane_code": "20011",
+    "dane_name_oficial": "Aguachica",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20493": {
+    "dane_code": "68013",
+    "dane_name_oficial": "Aguada",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20494": {
+    "dane_code": "17013",
+    "dane_name_oficial": "Aguadas",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "20495": {
+    "dane_code": "85010",
+    "dane_name_oficial": "Aguazul",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "20496": {
+    "dane_code": "20013",
+    "dane_name_oficial": "Agustín Codazzi",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20497": {
+    "dane_code": "18029",
+    "dane_name_oficial": "Albania",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "20498": {
+    "dane_code": "44035",
+    "dane_name_oficial": "Albania",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "20499": {
+    "dane_code": "68020",
+    "dane_name_oficial": "Albania",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20501": {
+    "dane_code": "25019",
+    "dane_name_oficial": "Albán",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20502": {
+    "dane_code": "76020",
+    "dane_name_oficial": "Alcalá",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20503": {
+    "dane_code": "52022",
+    "dane_name_oficial": "Aldana",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20504": {
+    "dane_code": "5021",
+    "dane_name_oficial": "Alejandría",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20505": {
+    "dane_code": "47030",
+    "dane_name_oficial": "Algarrobo",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20506": {
+    "dane_code": "19022",
+    "dane_name_oficial": "Almaguer",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20507": {
+    "dane_code": "15022",
+    "dane_name_oficial": "Almeida",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20508": {
+    "dane_code": "73024",
+    "dane_name_oficial": "Alpujarra",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20509": {
+    "dane_code": "27025",
+    "dane_name_oficial": "Alto Baudó",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20510": {
+    "dane_code": "13030",
+    "dane_name_oficial": "Altos del Rosario",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20511": {
+    "dane_code": "73026",
+    "dane_name_oficial": "Alvarado",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20512": {
+    "dane_code": "5030",
+    "dane_name_oficial": "Amagá",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20513": {
+    "dane_code": "5031",
+    "dane_name_oficial": "Amalfi",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20514": {
+    "dane_code": "73030",
+    "dane_name_oficial": "Ambalema",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20516": {
+    "dane_code": "25035",
+    "dane_name_oficial": "Anapoima",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20517": {
+    "dane_code": "52036",
+    "dane_name_oficial": "Ancuyá",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20519": {
+    "dane_code": "76036",
+    "dane_name_oficial": "Andalucía",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20520": {
+    "dane_code": "5034",
+    "dane_name_oficial": "Andes",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20521": {
+    "dane_code": "5036",
+    "dane_name_oficial": "Angelópolis",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20522": {
+    "dane_code": "5038",
+    "dane_name_oficial": "Angostura",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20523": {
+    "dane_code": "25040",
+    "dane_name_oficial": "Anolaima",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20525": {
+    "dane_code": "17042",
+    "dane_name_oficial": "Anserma",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "20526": {
+    "dane_code": "76041",
+    "dane_name_oficial": "Ansermanuevo",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20527": {
+    "dane_code": "5044",
+    "dane_name_oficial": "Anzá",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20528": {
+    "dane_code": "73043",
+    "dane_name_oficial": "Anzoátegui",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20529": {
+    "dane_code": "5045",
+    "dane_name_oficial": "Apartadó",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20530": {
+    "dane_code": "25599",
+    "dane_name_oficial": "Apulo",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20531": {
+    "dane_code": "66045",
+    "dane_name_oficial": "Apía",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "20532": {
+    "dane_code": "15047",
+    "dane_name_oficial": "Aquitania",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20533": {
+    "dane_code": "47053",
+    "dane_name_oficial": "Aracataca",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20534": {
+    "dane_code": "17050",
+    "dane_name_oficial": "Aranzazu",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "20535": {
+    "dane_code": "68051",
+    "dane_name_oficial": "Aratoca",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20536": {
+    "dane_code": "81001",
+    "dane_name_oficial": "Arauca",
+    "dept_code": "81",
+    "dept_name": "Arauca"
+  },
+  "20537": {
+    "dane_code": "81065",
+    "dane_name_oficial": "Arauquita",
+    "dept_code": "81",
+    "dept_name": "Arauca"
+  },
+  "20538": {
+    "dane_code": "25053",
+    "dane_name_oficial": "Arbeláez",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20539": {
+    "dane_code": "52051",
+    "dane_name_oficial": "Arboleda",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20540": {
+    "dane_code": "54051",
+    "dane_name_oficial": "Arboledas",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20541": {
+    "dane_code": "5051",
+    "dane_name_oficial": "Arboletes",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20542": {
+    "dane_code": "15051",
+    "dane_name_oficial": "Arcabuco",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20543": {
+    "dane_code": "13042",
+    "dane_name_oficial": "Arenal",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20544": {
+    "dane_code": "5055",
+    "dane_name_oficial": "Argelia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20545": {
+    "dane_code": "19050",
+    "dane_name_oficial": "Argelia",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20546": {
+    "dane_code": "76054",
+    "dane_name_oficial": "Argelia",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20548": {
+    "dane_code": "47058",
+    "dane_name_oficial": "Ariguaní",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20549": {
+    "dane_code": "13052",
+    "dane_name_oficial": "Arjona",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20550": {
+    "dane_code": "5059",
+    "dane_name_oficial": "Armenia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20551": {
+    "dane_code": "63001",
+    "dane_name_oficial": "Armenia",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "20552": {
+    "dane_code": "73055",
+    "dane_name_oficial": "Armero",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20554": {
+    "dane_code": "13062",
+    "dane_name_oficial": "Arroyohondo",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20555": {
+    "dane_code": "20032",
+    "dane_name_oficial": "Astrea",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20556": {
+    "dane_code": "73067",
+    "dane_name_oficial": "Ataco",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20557": {
+    "dane_code": "27050",
+    "dane_name_oficial": "Atrato",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20558": {
+    "dane_code": "23068",
+    "dane_name_oficial": "Ayapel",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "20559": {
+    "dane_code": "27073",
+    "dane_name_oficial": "Bagadó",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20560": {
+    "dane_code": "27075",
+    "dane_name_oficial": "Bahía Solano",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20561": {
+    "dane_code": "27077",
+    "dane_name_oficial": "Bajo Baudó",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20562": {
+    "dane_code": "19075",
+    "dane_name_oficial": "Balboa",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20563": {
+    "dane_code": "66075",
+    "dane_name_oficial": "Balboa",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "20564": {
+    "dane_code": "8078",
+    "dane_name_oficial": "Baranoa",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "20565": {
+    "dane_code": "52079",
+    "dane_name_oficial": "Barbacoas",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20566": {
+    "dane_code": "5079",
+    "dane_name_oficial": "Barbosa",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20567": {
+    "dane_code": "68077",
+    "dane_name_oficial": "Barbosa",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20568": {
+    "dane_code": "68079",
+    "dane_name_oficial": "Barichara",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20569": {
+    "dane_code": "50110",
+    "dane_name_oficial": "Barranca de Upía",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20570": {
+    "dane_code": "68081",
+    "dane_name_oficial": "Barrancabermeja",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20571": {
+    "dane_code": "44078",
+    "dane_name_oficial": "Barrancas",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "20572": {
+    "dane_code": "94343",
+    "dane_name_oficial": "Barranco Minas",
+    "dept_code": "94",
+    "dept_name": "Guainía"
+  },
+  "20573": {
+    "dane_code": "13074",
+    "dane_name_oficial": "Barranco de Loba",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20574": {
+    "dane_code": "8001",
+    "dane_name_oficial": "Barranquilla",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "20575": {
+    "dane_code": "20045",
+    "dane_name_oficial": "Becerril",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20576": {
+    "dane_code": "17088",
+    "dane_name_oficial": "Belalcázar",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "20579": {
+    "dane_code": "5088",
+    "dane_name_oficial": "Bello",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20580": {
+    "dane_code": "5086",
+    "dane_name_oficial": "Belmira",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20581": {
+    "dane_code": "25086",
+    "dane_name_oficial": "Beltrán",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20582": {
+    "dane_code": "15087",
+    "dane_name_oficial": "Belén",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20583": {
+    "dane_code": "52083",
+    "dane_name_oficial": "Belén",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20584": {
+    "dane_code": "18094",
+    "dane_name_oficial": "Belén de los Andaquíes",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "20585": {
+    "dane_code": "66088",
+    "dane_name_oficial": "Belén de Umbría",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "20587": {
+    "dane_code": "15090",
+    "dane_name_oficial": "Berbeo",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20588": {
+    "dane_code": "5091",
+    "dane_name_oficial": "Betania",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20589": {
+    "dane_code": "5093",
+    "dane_name_oficial": "Betulia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20590": {
+    "dane_code": "68092",
+    "dane_name_oficial": "Betulia",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20591": {
+    "dane_code": "15092",
+    "dane_name_oficial": "Betéitiva",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20592": {
+    "dane_code": "25095",
+    "dane_name_oficial": "Bituima",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20593": {
+    "dane_code": "15097",
+    "dane_name_oficial": "Boavita",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20594": {
+    "dane_code": "54099",
+    "dane_name_oficial": "Bochalema",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20595": {
+    "dane_code": "25099",
+    "dane_name_oficial": "Bojacá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20596": {
+    "dane_code": "27099",
+    "dane_name_oficial": "Bojayá",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20597": {
+    "dane_code": "19100",
+    "dane_name_oficial": "Bolívar",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20598": {
+    "dane_code": "68101",
+    "dane_name_oficial": "Bolívar",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20599": {
+    "dane_code": "76100",
+    "dane_name_oficial": "Bolívar",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20600": {
+    "dane_code": "15104",
+    "dane_name_oficial": "Boyacá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20601": {
+    "dane_code": "5107",
+    "dane_name_oficial": "Briceño",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20602": {
+    "dane_code": "15106",
+    "dane_name_oficial": "Briceño",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20603": {
+    "dane_code": "68001",
+    "dane_name_oficial": "Bucaramanga",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20604": {
+    "dane_code": "54109",
+    "dane_name_oficial": "Bucarasica",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20605": {
+    "dane_code": "76109",
+    "dane_name_oficial": "Buenaventura",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20606": {
+    "dane_code": "47692",
+    "dane_name_oficial": "San Sebastián de Buenavista",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20607": {
+    "dane_code": "15109",
+    "dane_name_oficial": "Buenavista",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20608": {
+    "dane_code": "23079",
+    "dane_name_oficial": "Buenavista",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "20609": {
+    "dane_code": "63111",
+    "dane_name_oficial": "Buenavista",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "20610": {
+    "dane_code": "19110",
+    "dane_name_oficial": "Buenos Aires",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20611": {
+    "dane_code": "52110",
+    "dane_name_oficial": "Buesaco",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20612": {
+    "dane_code": "76113",
+    "dane_name_oficial": "Bugalagrande",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20613": {
+    "dane_code": "5113",
+    "dane_name_oficial": "Buriticá",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20614": {
+    "dane_code": "15114",
+    "dane_name_oficial": "Busbanzá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20615": {
+    "dane_code": "25120",
+    "dane_name_oficial": "Cabrera",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20616": {
+    "dane_code": "68121",
+    "dane_name_oficial": "Cabrera",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20617": {
+    "dane_code": "50124",
+    "dane_name_oficial": "Cabuyaro",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20618": {
+    "dane_code": "94886",
+    "dane_name_oficial": "Cacahual",
+    "dept_code": "94",
+    "dept_name": "Guainía"
+  },
+  "20619": {
+    "dane_code": "25123",
+    "dane_name_oficial": "Cachipay",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20620": {
+    "dane_code": "54128",
+    "dane_name_oficial": "Cáchira",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20621": {
+    "dane_code": "5125",
+    "dane_name_oficial": "Caicedo",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20622": {
+    "dane_code": "76122",
+    "dane_name_oficial": "Caicedonia",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20623": {
+    "dane_code": "70124",
+    "dane_name_oficial": "Caimito",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "20624": {
+    "dane_code": "73124",
+    "dane_name_oficial": "Cajamarca",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20625": {
+    "dane_code": "19130",
+    "dane_name_oficial": "Cajibío",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20626": {
+    "dane_code": "25126",
+    "dane_name_oficial": "Cajicá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20627": {
+    "dane_code": "13140",
+    "dane_name_oficial": "Calamar",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20628": {
+    "dane_code": "95015",
+    "dane_name_oficial": "Calamar",
+    "dept_code": "95",
+    "dept_name": "Guaviare"
+  },
+  "20629": {
+    "dane_code": "63130",
+    "dane_name_oficial": "Calarcá",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "20631": {
+    "dane_code": "5129",
+    "dane_name_oficial": "Caldas",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20632": {
+    "dane_code": "15131",
+    "dane_name_oficial": "Caldas",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20633": {
+    "dane_code": "19137",
+    "dane_name_oficial": "Caldono",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20634": {
+    "dane_code": "76001",
+    "dane_name_oficial": "Cali",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20635": {
+    "dane_code": "68132",
+    "dane_name_oficial": "California",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20636": {
+    "dane_code": "76126",
+    "dane_name_oficial": "Calima",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20637": {
+    "dane_code": "19142",
+    "dane_name_oficial": "Caloto",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20638": {
+    "dane_code": "5134",
+    "dane_name_oficial": "Campamento",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20640": {
+    "dane_code": "8137",
+    "dane_name_oficial": "Campo de la Cruz",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "20641": {
+    "dane_code": "15135",
+    "dane_name_oficial": "Campohermoso",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20642": {
+    "dane_code": "23090",
+    "dane_name_oficial": "Canalete",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "20643": {
+    "dane_code": "8141",
+    "dane_name_oficial": "Candelaria",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "20644": {
+    "dane_code": "76130",
+    "dane_name_oficial": "Candelaria",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20645": {
+    "dane_code": "13160",
+    "dane_name_oficial": "Cantagallo",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20646": {
+    "dane_code": "25148",
+    "dane_name_oficial": "Caparrapí",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20647": {
+    "dane_code": "68147",
+    "dane_name_oficial": "Capitanejo",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20648": {
+    "dane_code": "25151",
+    "dane_name_oficial": "Cáqueza",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20649": {
+    "dane_code": "5142",
+    "dane_name_oficial": "Caracolí",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20650": {
+    "dane_code": "5145",
+    "dane_name_oficial": "Caramanta",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20651": {
+    "dane_code": "68152",
+    "dane_name_oficial": "Carcasí",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20652": {
+    "dane_code": "5147",
+    "dane_name_oficial": "Carepa",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20654": {
+    "dane_code": "73148",
+    "dane_name_oficial": "Carmen de Apicalá",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20655": {
+    "dane_code": "25154",
+    "dane_name_oficial": "Carmen de Carupa",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20656": {
+    "dane_code": "5148",
+    "dane_name_oficial": "El Carmen de Viboral",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20657": {
+    "dane_code": "27150",
+    "dane_name_oficial": "Carmen del Darién",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20658": {
+    "dane_code": "5150",
+    "dane_name_oficial": "Carolina",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20659": {
+    "dane_code": "13001",
+    "dane_name_oficial": "Cartagena de Indias",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20660": {
+    "dane_code": "18150",
+    "dane_name_oficial": "Cartagena del Chairá",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "20661": {
+    "dane_code": "76147",
+    "dane_name_oficial": "Cartago",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20663": {
+    "dane_code": "97161",
+    "dane_name_oficial": "Carurú",
+    "dept_code": "97",
+    "dept_name": "Vaupés"
+  },
+  "20664": {
+    "dane_code": "73152",
+    "dane_name_oficial": "Casabianca",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20665": {
+    "dane_code": "50150",
+    "dane_name_oficial": "Castilla la Nueva",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20666": {
+    "dane_code": "5154",
+    "dane_name_oficial": "Caucasia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20667": {
+    "dane_code": "5138",
+    "dane_name_oficial": "Cañasgordas",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20668": {
+    "dane_code": "68160",
+    "dane_name_oficial": "Cepitá",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20669": {
+    "dane_code": "23162",
+    "dane_name_oficial": "Cereté",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "20670": {
+    "dane_code": "15162",
+    "dane_name_oficial": "Cerinza",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20671": {
+    "dane_code": "68162",
+    "dane_name_oficial": "Cerrito",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20673": {
+    "dane_code": "47161",
+    "dane_name_oficial": "Cerro de San Antonio",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20674": {
+    "dane_code": "52240",
+    "dane_name_oficial": "Chachagüí",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20675": {
+    "dane_code": "25168",
+    "dane_name_oficial": "Chaguaní",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20676": {
+    "dane_code": "70130",
+    "dane_name_oficial": "Chalán",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "20677": {
+    "dane_code": "85015",
+    "dane_name_oficial": "Chámeza",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "20678": {
+    "dane_code": "73168",
+    "dane_name_oficial": "Chaparral",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20679": {
+    "dane_code": "68167",
+    "dane_name_oficial": "Charalá",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20680": {
+    "dane_code": "68169",
+    "dane_name_oficial": "Charta",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20683": {
+    "dane_code": "5172",
+    "dane_name_oficial": "Chigorodó",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20684": {
+    "dane_code": "23168",
+    "dane_name_oficial": "Chimá",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "20685": {
+    "dane_code": "20175",
+    "dane_name_oficial": "Chimichagua",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20686": {
+    "dane_code": "68176",
+    "dane_name_oficial": "Chima",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20687": {
+    "dane_code": "15172",
+    "dane_name_oficial": "Chinavita",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20688": {
+    "dane_code": "17174",
+    "dane_name_oficial": "Chinchiná",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "20689": {
+    "dane_code": "54172",
+    "dane_name_oficial": "Chinácota",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20690": {
+    "dane_code": "23182",
+    "dane_name_oficial": "Chinú",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "20691": {
+    "dane_code": "25178",
+    "dane_name_oficial": "Chipaque",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20692": {
+    "dane_code": "68179",
+    "dane_name_oficial": "Chipatá",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20693": {
+    "dane_code": "15176",
+    "dane_name_oficial": "Chiquinquirá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20694": {
+    "dane_code": "20178",
+    "dane_name_oficial": "Chiriguaná",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20695": {
+    "dane_code": "15180",
+    "dane_name_oficial": "Chiscas",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20696": {
+    "dane_code": "15183",
+    "dane_name_oficial": "Chita",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20697": {
+    "dane_code": "54174",
+    "dane_name_oficial": "Chitagá",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20698": {
+    "dane_code": "15185",
+    "dane_name_oficial": "Chitaraque",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20699": {
+    "dane_code": "15187",
+    "dane_name_oficial": "Chivatá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20700": {
+    "dane_code": "47170",
+    "dane_name_oficial": "Chivolo",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20701": {
+    "dane_code": "15236",
+    "dane_name_oficial": "Chivor",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20702": {
+    "dane_code": "25181",
+    "dane_name_oficial": "Choachí",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20703": {
+    "dane_code": "25183",
+    "dane_name_oficial": "Chocontá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20705": {
+    "dane_code": "25175",
+    "dane_name_oficial": "Chía",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20706": {
+    "dane_code": "15232",
+    "dane_name_oficial": "Chíquiza",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20707": {
+    "dane_code": "13188",
+    "dane_name_oficial": "Cicuco",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20708": {
+    "dane_code": "68190",
+    "dane_name_oficial": "Cimitarra",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20709": {
+    "dane_code": "63190",
+    "dane_name_oficial": "Circasia",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "20710": {
+    "dane_code": "5190",
+    "dane_name_oficial": "Cisneros",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20711": {
+    "dane_code": "5101",
+    "dane_name_oficial": "Ciudad Bolívar",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20712": {
+    "dane_code": "47189",
+    "dane_name_oficial": "Ciénaga",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20713": {
+    "dane_code": "23189",
+    "dane_name_oficial": "Ciénaga de Oro",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "20714": {
+    "dane_code": "15189",
+    "dane_name_oficial": "Ciénega",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20715": {
+    "dane_code": "13222",
+    "dane_name_oficial": "Clemencia",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20716": {
+    "dane_code": "5197",
+    "dane_name_oficial": "Cocorná",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20717": {
+    "dane_code": "73200",
+    "dane_name_oficial": "Coello",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20718": {
+    "dane_code": "25200",
+    "dane_name_oficial": "Cogua",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20719": {
+    "dane_code": "70147",
+    "dane_name_oficial": "Colosó",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "20721": {
+    "dane_code": "52203",
+    "dane_name_oficial": "Colón",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20722": {
+    "dane_code": "86219",
+    "dane_name_oficial": "Colón",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "20723": {
+    "dane_code": "15204",
+    "dane_name_oficial": "Cómbita",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20724": {
+    "dane_code": "5206",
+    "dane_name_oficial": "Concepción",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20725": {
+    "dane_code": "68207",
+    "dane_name_oficial": "Concepción",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20726": {
+    "dane_code": "5209",
+    "dane_name_oficial": "Concordia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20727": {
+    "dane_code": "47205",
+    "dane_name_oficial": "Concordia",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20728": {
+    "dane_code": "27205",
+    "dane_name_oficial": "Condoto",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20729": {
+    "dane_code": "68209",
+    "dane_name_oficial": "Confines",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20730": {
+    "dane_code": "52207",
+    "dane_name_oficial": "Consacá",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20732": {
+    "dane_code": "52210",
+    "dane_name_oficial": "Contadero",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20733": {
+    "dane_code": "68211",
+    "dane_name_oficial": "Contratación",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20734": {
+    "dane_code": "54206",
+    "dane_name_oficial": "Convención",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20735": {
+    "dane_code": "5212",
+    "dane_name_oficial": "Copacabana",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20736": {
+    "dane_code": "15212",
+    "dane_name_oficial": "Coper",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20737": {
+    "dane_code": "19212",
+    "dane_name_oficial": "Corinto",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20738": {
+    "dane_code": "68217",
+    "dane_name_oficial": "Coromoro",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20739": {
+    "dane_code": "70150",
+    "dane_name_oficial": "Corozal",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "20740": {
+    "dane_code": "15215",
+    "dane_name_oficial": "Corrales",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20741": {
+    "dane_code": "25214",
+    "dane_name_oficial": "Cota",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20742": {
+    "dane_code": "23300",
+    "dane_name_oficial": "Cotorra",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "20743": {
+    "dane_code": "15218",
+    "dane_name_oficial": "Covarachía",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20744": {
+    "dane_code": "70154",
+    "dane_name_oficial": "Coveñas",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "20745": {
+    "dane_code": "73217",
+    "dane_name_oficial": "Coyaima",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20746": {
+    "dane_code": "81220",
+    "dane_name_oficial": "Cravo Norte",
+    "dept_code": "81",
+    "dept_name": "Arauca"
+  },
+  "20747": {
+    "dane_code": "5040",
+    "dane_name_oficial": "Anorí",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20749": {
+    "dane_code": "50223",
+    "dane_name_oficial": "Cubarral",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20750": {
+    "dane_code": "15223",
+    "dane_name_oficial": "Cubará",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20751": {
+    "dane_code": "15224",
+    "dane_name_oficial": "Cucaita",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20752": {
+    "dane_code": "25224",
+    "dane_name_oficial": "Cucunubá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20753": {
+    "dane_code": "54223",
+    "dane_name_oficial": "Cucutilla",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20754": {
+    "dane_code": "50226",
+    "dane_name_oficial": "Cumaral",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20755": {
+    "dane_code": "99773",
+    "dane_name_oficial": "Cumaribo",
+    "dept_code": "99",
+    "dept_name": "Vichada"
+  },
+  "20756": {
+    "dane_code": "52227",
+    "dane_name_oficial": "Cumbal",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20757": {
+    "dane_code": "52233",
+    "dane_name_oficial": "Cumbitara",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20758": {
+    "dane_code": "73226",
+    "dane_name_oficial": "Cunday",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20759": {
+    "dane_code": "18205",
+    "dane_name_oficial": "Curillo",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "20760": {
+    "dane_code": "68229",
+    "dane_name_oficial": "Curití",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20761": {
+    "dane_code": "20228",
+    "dane_name_oficial": "Curumaní",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20762": {
+    "dane_code": "15226",
+    "dane_name_oficial": "Cuítiva",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20763": {
+    "dane_code": "5120",
+    "dane_name_oficial": "Cáceres",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20765": {
+    "dane_code": "54125",
+    "dane_name_oficial": "Cácota",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20767": {
+    "dane_code": "27160",
+    "dane_name_oficial": "Cértegui",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20769": {
+    "dane_code": "13212",
+    "dane_name_oficial": "Córdoba",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20770": {
+    "dane_code": "52215",
+    "dane_name_oficial": "Córdoba",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20771": {
+    "dane_code": "63212",
+    "dane_name_oficial": "Córdoba",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "20772": {
+    "dane_code": "54001",
+    "dane_name_oficial": "Cúcuta",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20773": {
+    "dane_code": "5234",
+    "dane_name_oficial": "Dabeiba",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20774": {
+    "dane_code": "76233",
+    "dane_name_oficial": "Dagua",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20776": {
+    "dane_code": "44090",
+    "dane_name_oficial": "Dibulla",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "20777": {
+    "dane_code": "44098",
+    "dane_name_oficial": "Distracción",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "20779": {
+    "dane_code": "73236",
+    "dane_name_oficial": "Dolores",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20782": {
+    "dane_code": "66170",
+    "dane_name_oficial": "Dosquebradas",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "20783": {
+    "dane_code": "15238",
+    "dane_name_oficial": "Duitama",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20784": {
+    "dane_code": "54239",
+    "dane_name_oficial": "Durania",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20785": {
+    "dane_code": "5240",
+    "dane_name_oficial": "Ebéjico",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20786": {
+    "dane_code": "5250",
+    "dane_name_oficial": "El Bagre",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20787": {
+    "dane_code": "47245",
+    "dane_name_oficial": "El Banco",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20789": {
+    "dane_code": "76246",
+    "dane_name_oficial": "El Cairo",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20790": {
+    "dane_code": "50245",
+    "dane_name_oficial": "El Calvario",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20793": {
+    "dane_code": "54245",
+    "dane_name_oficial": "El Carmen",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20795": {
+    "dane_code": "27245",
+    "dane_name_oficial": "El Carmen de Atrato",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20796": {
+    "dane_code": "13244",
+    "dane_name_oficial": "El Carmen de Bolívar",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20797": {
+    "dane_code": "68235",
+    "dane_name_oficial": "El Carmen de Chucurí",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20799": {
+    "dane_code": "50251",
+    "dane_name_oficial": "El Castillo",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20800": {
+    "dane_code": "76248",
+    "dane_name_oficial": "El Cerrito",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20801": {
+    "dane_code": "52250",
+    "dane_name_oficial": "El Charco",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20802": {
+    "dane_code": "15244",
+    "dane_name_oficial": "El Cocuy",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20803": {
+    "dane_code": "25245",
+    "dane_name_oficial": "El Colegio",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20804": {
+    "dane_code": "20238",
+    "dane_name_oficial": "El Copey",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20805": {
+    "dane_code": "18247",
+    "dane_name_oficial": "El Doncello",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "20806": {
+    "dane_code": "76250",
+    "dane_name_oficial": "El Dovio",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20807": {
+    "dane_code": "91263",
+    "dane_name_oficial": "El Encanto",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "20808": {
+    "dane_code": "15248",
+    "dane_name_oficial": "El Espino",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20809": {
+    "dane_code": "68245",
+    "dane_name_oficial": "El Guacamayo",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20810": {
+    "dane_code": "13248",
+    "dane_name_oficial": "El Guamo",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20812": {
+    "dane_code": "44110",
+    "dane_name_oficial": "El Molino",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "20813": {
+    "dane_code": "20250",
+    "dane_name_oficial": "El Paso",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20814": {
+    "dane_code": "18256",
+    "dane_name_oficial": "El Paujil",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "20816": {
+    "dane_code": "52254",
+    "dane_name_oficial": "El Peñol",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20817": {
+    "dane_code": "13268",
+    "dane_name_oficial": "El Peñón",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20818": {
+    "dane_code": "25258",
+    "dane_name_oficial": "El Peñón",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20819": {
+    "dane_code": "68250",
+    "dane_name_oficial": "El Peñón",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20820": {
+    "dane_code": "47258",
+    "dane_name_oficial": "El Piñón",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20822": {
+    "dane_code": "68255",
+    "dane_name_oficial": "El Playón",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20823": {
+    "dane_code": "95025",
+    "dane_name_oficial": "El Retorno",
+    "dept_code": "95",
+    "dept_name": "Guaviare"
+  },
+  "20824": {
+    "dane_code": "47268",
+    "dane_name_oficial": "El Retén",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20825": {
+    "dane_code": "70204",
+    "dane_name_oficial": "El Roble",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "20826": {
+    "dane_code": "25260",
+    "dane_name_oficial": "El Rosal",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20827": {
+    "dane_code": "52256",
+    "dane_name_oficial": "El Rosario",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20829": {
+    "dane_code": "52258",
+    "dane_name_oficial": "El Tablón de Gómez",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20831": {
+    "dane_code": "19256",
+    "dane_name_oficial": "El Tambo",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20832": {
+    "dane_code": "52260",
+    "dane_name_oficial": "El Tambo",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20833": {
+    "dane_code": "54250",
+    "dane_name_oficial": "El Tarra",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20834": {
+    "dane_code": "54261",
+    "dane_name_oficial": "El Zulia",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20835": {
+    "dane_code": "76243",
+    "dane_name_oficial": "El Águila",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20836": {
+    "dane_code": "68264",
+    "dane_name_oficial": "Encino",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20837": {
+    "dane_code": "68266",
+    "dane_name_oficial": "Enciso",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20838": {
+    "dane_code": "5264",
+    "dane_name_oficial": "Entrerríos",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20840": {
+    "dane_code": "5266",
+    "dane_name_oficial": "Envigado",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20841": {
+    "dane_code": "73268",
+    "dane_name_oficial": "Espinal",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20842": {
+    "dane_code": "25269",
+    "dane_name_oficial": "Facatativá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20843": {
+    "dane_code": "73270",
+    "dane_name_oficial": "Falan",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20844": {
+    "dane_code": "17272",
+    "dane_name_oficial": "Filadelfia",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "20845": {
+    "dane_code": "63272",
+    "dane_name_oficial": "Filandia",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "20846": {
+    "dane_code": "15272",
+    "dane_name_oficial": "Firavitoba",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20847": {
+    "dane_code": "73275",
+    "dane_name_oficial": "Flandes",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20848": {
+    "dane_code": "18001",
+    "dane_name_oficial": "Florencia",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "20849": {
+    "dane_code": "19290",
+    "dane_name_oficial": "Florencia",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20850": {
+    "dane_code": "15276",
+    "dane_name_oficial": "Floresta",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20851": {
+    "dane_code": "76275",
+    "dane_name_oficial": "Florida",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20852": {
+    "dane_code": "68276",
+    "dane_name_oficial": "Floridablanca",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20853": {
+    "dane_code": "68271",
+    "dane_name_oficial": "Florián",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20854": {
+    "dane_code": "25279",
+    "dane_name_oficial": "Fomeque",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20855": {
+    "dane_code": "44279",
+    "dane_name_oficial": "Fonseca",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "20856": {
+    "dane_code": "81300",
+    "dane_name_oficial": "Fortul",
+    "dept_code": "81",
+    "dept_name": "Arauca"
+  },
+  "20857": {
+    "dane_code": "25281",
+    "dane_name_oficial": "Fosca",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20858": {
+    "dane_code": "52520",
+    "dane_name_oficial": "Francisco Pizarro",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20859": {
+    "dane_code": "5282",
+    "dane_name_oficial": "Fredonia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20860": {
+    "dane_code": "73283",
+    "dane_name_oficial": "Fresno",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20861": {
+    "dane_code": "5284",
+    "dane_name_oficial": "Frontino",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20863": {
+    "dane_code": "50287",
+    "dane_name_oficial": "Fuente de Oro",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20864": {
+    "dane_code": "47288",
+    "dane_name_oficial": "Fundación",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20865": {
+    "dane_code": "52287",
+    "dane_name_oficial": "Funes",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20866": {
+    "dane_code": "25286",
+    "dane_name_oficial": "Funza",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20867": {
+    "dane_code": "25290",
+    "dane_name_oficial": "Fusagasugá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20869": {
+    "dane_code": "25288",
+    "dane_name_oficial": "Fúquene",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20870": {
+    "dane_code": "25293",
+    "dane_name_oficial": "Gachalá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20872": {
+    "dane_code": "25295",
+    "dane_name_oficial": "Gachancipá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20873": {
+    "dane_code": "15293",
+    "dane_name_oficial": "Gachantivá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20874": {
+    "dane_code": "25297",
+    "dane_name_oficial": "Gachetá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20876": {
+    "dane_code": "8296",
+    "dane_name_oficial": "Galapa",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "20877": {
+    "dane_code": "70215",
+    "dane_name_oficial": "Galeras",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "20878": {
+    "dane_code": "68296",
+    "dane_name_oficial": "Galán",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20879": {
+    "dane_code": "25299",
+    "dane_name_oficial": "Gama",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20880": {
+    "dane_code": "20295",
+    "dane_name_oficial": "Gamarra",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20881": {
+    "dane_code": "68298",
+    "dane_name_oficial": "Gámbita",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20882": {
+    "dane_code": "15296",
+    "dane_name_oficial": "Gámeza",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20883": {
+    "dane_code": "15299",
+    "dane_name_oficial": "Garagoa",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20884": {
+    "dane_code": "76306",
+    "dane_name_oficial": "Ginebra",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20885": {
+    "dane_code": "5306",
+    "dane_name_oficial": "Giraldo",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20886": {
+    "dane_code": "25307",
+    "dane_name_oficial": "Girardot",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20888": {
+    "dane_code": "5308",
+    "dane_name_oficial": "Girardota",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20889": {
+    "dane_code": "68307",
+    "dane_name_oficial": "Girón",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20890": {
+    "dane_code": "20310",
+    "dane_name_oficial": "González",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20891": {
+    "dane_code": "54313",
+    "dane_name_oficial": "Gramalote",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20892": {
+    "dane_code": "5313",
+    "dane_name_oficial": "Granada",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20893": {
+    "dane_code": "25312",
+    "dane_name_oficial": "Granada",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20894": {
+    "dane_code": "50313",
+    "dane_name_oficial": "Granada",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20895": {
+    "dane_code": "68318",
+    "dane_name_oficial": "Guaca",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20896": {
+    "dane_code": "15317",
+    "dane_name_oficial": "Guacamayas",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20897": {
+    "dane_code": "76318",
+    "dane_name_oficial": "Guacarí",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20898": {
+    "dane_code": "25317",
+    "dane_name_oficial": "Guachetá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20899": {
+    "dane_code": "52317",
+    "dane_name_oficial": "Guachucal",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20900": {
+    "dane_code": "76111",
+    "dane_name_oficial": "Guadalajara de Buga",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20901": {
+    "dane_code": "5315",
+    "dane_name_oficial": "Guadalupe",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20902": {
+    "dane_code": "41319",
+    "dane_name_oficial": "Guadalupe",
+    "dept_code": "41",
+    "dept_name": "Huila"
+  },
+  "20903": {
+    "dane_code": "25320",
+    "dane_name_oficial": "Guaduas",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20904": {
+    "dane_code": "52320",
+    "dane_name_oficial": "Guaitarilla",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20905": {
+    "dane_code": "52323",
+    "dane_name_oficial": "Gualmatán",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20906": {
+    "dane_code": "47318",
+    "dane_name_oficial": "Guamal",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "20907": {
+    "dane_code": "50318",
+    "dane_name_oficial": "Guamal",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20908": {
+    "dane_code": "73319",
+    "dane_name_oficial": "Guamo",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20909": {
+    "dane_code": "19318",
+    "dane_name_oficial": "Guapi",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20910": {
+    "dane_code": "68322",
+    "dane_name_oficial": "Guapotá",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20912": {
+    "dane_code": "70221",
+    "dane_name_oficial": "Guaranda",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "20913": {
+    "dane_code": "5318",
+    "dane_name_oficial": "Guarne",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20914": {
+    "dane_code": "25322",
+    "dane_name_oficial": "Guasca",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20915": {
+    "dane_code": "5321",
+    "dane_name_oficial": "Guatapé",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20916": {
+    "dane_code": "25324",
+    "dane_name_oficial": "Guataquí",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20917": {
+    "dane_code": "25326",
+    "dane_name_oficial": "Guatavita",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20918": {
+    "dane_code": "15322",
+    "dane_name_oficial": "Guateque",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20919": {
+    "dane_code": "68324",
+    "dane_name_oficial": "Guavatá",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20921": {
+    "dane_code": "25328",
+    "dane_name_oficial": "Guayabal de Síquima",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20923": {
+    "dane_code": "25335",
+    "dane_name_oficial": "Guayabetal",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20924": {
+    "dane_code": "15325",
+    "dane_name_oficial": "Guayatá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20925": {
+    "dane_code": "25339",
+    "dane_name_oficial": "Gutiérrez",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20926": {
+    "dane_code": "66318",
+    "dane_name_oficial": "Guática",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "20930": {
+    "dane_code": "63302",
+    "dane_name_oficial": "Génova",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "20931": {
+    "dane_code": "5310",
+    "dane_name_oficial": "Gómez Plata",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20932": {
+    "dane_code": "68327",
+    "dane_name_oficial": "Güepsa",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20934": {
+    "dane_code": "54344",
+    "dane_name_oficial": "Hacarí",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20935": {
+    "dane_code": "13300",
+    "dane_name_oficial": "Hatillo de Loba",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "20936": {
+    "dane_code": "68344",
+    "dane_name_oficial": "Hato",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20937": {
+    "dane_code": "85125",
+    "dane_name_oficial": "Hato Corozal",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "20938": {
+    "dane_code": "44378",
+    "dane_name_oficial": "Hatonuevo",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "20939": {
+    "dane_code": "5347",
+    "dane_name_oficial": "Heliconia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20940": {
+    "dane_code": "54347",
+    "dane_name_oficial": "Herrán",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20941": {
+    "dane_code": "73347",
+    "dane_name_oficial": "Herveo",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20942": {
+    "dane_code": "5353",
+    "dane_name_oficial": "Hispania",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20943": {
+    "dane_code": "73349",
+    "dane_name_oficial": "Honda",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20944": {
+    "dane_code": "73001",
+    "dane_name_oficial": "Ibagué",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20945": {
+    "dane_code": "73352",
+    "dane_name_oficial": "Icononzo",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "20946": {
+    "dane_code": "52352",
+    "dane_name_oficial": "Iles",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20947": {
+    "dane_code": "52354",
+    "dane_name_oficial": "Imués",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20948": {
+    "dane_code": "19355",
+    "dane_name_oficial": "Inzá",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20949": {
+    "dane_code": "94001",
+    "dane_name_oficial": "Inírida",
+    "dept_code": "94",
+    "dept_name": "Guainía"
+  },
+  "20950": {
+    "dane_code": "52356",
+    "dane_name_oficial": "Ipiales",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20952": {
+    "dane_code": "27361",
+    "dane_name_oficial": "Istmina",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20953": {
+    "dane_code": "5360",
+    "dane_name_oficial": "Itagüí",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20955": {
+    "dane_code": "5361",
+    "dane_name_oficial": "Ituango",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20956": {
+    "dane_code": "15362",
+    "dane_name_oficial": "Iza",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20957": {
+    "dane_code": "19364",
+    "dane_name_oficial": "Jambaló",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "20958": {
+    "dane_code": "76364",
+    "dane_name_oficial": "Jamundí",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20959": {
+    "dane_code": "5364",
+    "dane_name_oficial": "Jardín",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20960": {
+    "dane_code": "15367",
+    "dane_name_oficial": "Jenesano",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20961": {
+    "dane_code": "5368",
+    "dane_name_oficial": "Jericó",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20962": {
+    "dane_code": "15368",
+    "dane_name_oficial": "Jericó",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20963": {
+    "dane_code": "25368",
+    "dane_name_oficial": "Jerusalén",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20964": {
+    "dane_code": "68368",
+    "dane_name_oficial": "Jesús María",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20965": {
+    "dane_code": "68370",
+    "dane_name_oficial": "Jordán",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20966": {
+    "dane_code": "8372",
+    "dane_name_oficial": "Juan de Acosta",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "20968": {
+    "dane_code": "25372",
+    "dane_name_oficial": "Junín",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20969": {
+    "dane_code": "27372",
+    "dane_name_oficial": "Juradó",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "20970": {
+    "dane_code": "23350",
+    "dane_name_oficial": "La Apartada",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "20971": {
+    "dane_code": "68377",
+    "dane_name_oficial": "La Belleza",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20972": {
+    "dane_code": "25377",
+    "dane_name_oficial": "La Calera",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20973": {
+    "dane_code": "15380",
+    "dane_name_oficial": "La Capilla",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "20974": {
+    "dane_code": "5376",
+    "dane_name_oficial": "La Ceja",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20975": {
+    "dane_code": "66383",
+    "dane_name_oficial": "La Celia",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "20977": {
+    "dane_code": "91405",
+    "dane_name_oficial": "La Chorrera",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "20978": {
+    "dane_code": "52378",
+    "dane_name_oficial": "La Cruz",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20979": {
+    "dane_code": "76377",
+    "dane_name_oficial": "La Cumbre",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "20981": {
+    "dane_code": "17380",
+    "dane_name_oficial": "La Dorada",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "20982": {
+    "dane_code": "54385",
+    "dane_name_oficial": "La Esperanza",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "20983": {
+    "dane_code": "5380",
+    "dane_name_oficial": "La Estrella",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "20984": {
+    "dane_code": "52381",
+    "dane_name_oficial": "La Florida",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20985": {
+    "dane_code": "20383",
+    "dane_name_oficial": "La Gloria",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20986": {
+    "dane_code": "94885",
+    "dane_name_oficial": "La Guadalupe",
+    "dept_code": "94",
+    "dept_name": "Guainía"
+  },
+  "20987": {
+    "dane_code": "20400",
+    "dane_name_oficial": "La Jagua de Ibirico",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20988": {
+    "dane_code": "44420",
+    "dane_name_oficial": "La Jagua del Pilar",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "20989": {
+    "dane_code": "52385",
+    "dane_name_oficial": "La Llanada",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "20990": {
+    "dane_code": "50350",
+    "dane_name_oficial": "La Macarena",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "20992": {
+    "dane_code": "17388",
+    "dane_name_oficial": "La Merced",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "20993": {
+    "dane_code": "25386",
+    "dane_name_oficial": "La Mesa",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20994": {
+    "dane_code": "18410",
+    "dane_name_oficial": "La Montañita",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "20995": {
+    "dane_code": "25394",
+    "dane_name_oficial": "La Palma",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "20996": {
+    "dane_code": "20621",
+    "dane_name_oficial": "La Paz",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "20997": {
+    "dane_code": "68397",
+    "dane_name_oficial": "La Paz",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "20998": {
+    "dane_code": "91407",
+    "dane_name_oficial": "La Pedrera",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "20999": {
+    "dane_code": "25398",
+    "dane_name_oficial": "La Peña",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21000": {
+    "dane_code": "5390",
+    "dane_name_oficial": "La Pintada",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21001": {
+    "dane_code": "54398",
+    "dane_name_oficial": "La Playa",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21002": {
+    "dane_code": "99524",
+    "dane_name_oficial": "La Primavera",
+    "dept_code": "99",
+    "dept_name": "Vichada"
+  },
+  "21003": {
+    "dane_code": "19392",
+    "dane_name_oficial": "La Sierra",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21004": {
+    "dane_code": "63401",
+    "dane_name_oficial": "La Tebaida",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "21005": {
+    "dane_code": "52390",
+    "dane_name_oficial": "La Tola",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21006": {
+    "dane_code": "5400",
+    "dane_name_oficial": "La Unión",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21007": {
+    "dane_code": "52399",
+    "dane_name_oficial": "La Unión",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21008": {
+    "dane_code": "70230",
+    "dane_name_oficial": "La Unión",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21009": {
+    "dane_code": "76400",
+    "dane_name_oficial": "La Unión",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21010": {
+    "dane_code": "15401",
+    "dane_name_oficial": "La Uvita",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21011": {
+    "dane_code": "19397",
+    "dane_name_oficial": "La Vega",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21012": {
+    "dane_code": "25402",
+    "dane_name_oficial": "La Vega",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21013": {
+    "dane_code": "15403",
+    "dane_name_oficial": "La Victoria",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21014": {
+    "dane_code": "76403",
+    "dane_name_oficial": "La Victoria",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21015": {
+    "dane_code": "91430",
+    "dane_name_oficial": "La Victoria",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "21016": {
+    "dane_code": "66400",
+    "dane_name_oficial": "La Virginia",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "21017": {
+    "dane_code": "54377",
+    "dane_name_oficial": "Labateca",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21018": {
+    "dane_code": "15377",
+    "dane_name_oficial": "Labranzagrande",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21019": {
+    "dane_code": "68385",
+    "dane_name_oficial": "Landázuri",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21021": {
+    "dane_code": "68406",
+    "dane_name_oficial": "Lebríja",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21024": {
+    "dane_code": "52405",
+    "dane_name_oficial": "Leiva",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21025": {
+    "dane_code": "50400",
+    "dane_name_oficial": "Lejanías",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21026": {
+    "dane_code": "25407",
+    "dane_name_oficial": "Lenguazaque",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21027": {
+    "dane_code": "91001",
+    "dane_name_oficial": "Leticia",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "21028": {
+    "dane_code": "5411",
+    "dane_name_oficial": "Liborina",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21029": {
+    "dane_code": "52411",
+    "dane_name_oficial": "Linares",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21030": {
+    "dane_code": "27413",
+    "dane_name_oficial": "Lloró",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21031": {
+    "dane_code": "23417",
+    "dane_name_oficial": "Lorica",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21032": {
+    "dane_code": "52418",
+    "dane_name_oficial": "Los Andes",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21033": {
+    "dane_code": "23419",
+    "dane_name_oficial": "Los Córdobas",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21034": {
+    "dane_code": "70233",
+    "dane_name_oficial": "Los Palmitos",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21035": {
+    "dane_code": "54405",
+    "dane_name_oficial": "Los Patios",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21036": {
+    "dane_code": "68418",
+    "dane_name_oficial": "Los Santos",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21037": {
+    "dane_code": "54418",
+    "dane_name_oficial": "Lourdes",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21038": {
+    "dane_code": "8421",
+    "dane_name_oficial": "Luruaco",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21039": {
+    "dane_code": "73408",
+    "dane_name_oficial": "Lérida",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21040": {
+    "dane_code": "73411",
+    "dane_name_oficial": "Líbano",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21041": {
+    "dane_code": "19418",
+    "dane_name_oficial": "López de Micay",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21042": {
+    "dane_code": "15425",
+    "dane_name_oficial": "Macanal",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21043": {
+    "dane_code": "68425",
+    "dane_name_oficial": "Macaravita",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21044": {
+    "dane_code": "5425",
+    "dane_name_oficial": "Maceo",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21045": {
+    "dane_code": "25426",
+    "dane_name_oficial": "Machetá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21047": {
+    "dane_code": "25430",
+    "dane_name_oficial": "Madrid",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21048": {
+    "dane_code": "13430",
+    "dane_name_oficial": "Magangué",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21050": {
+    "dane_code": "13433",
+    "dane_name_oficial": "Mahates",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21051": {
+    "dane_code": "44430",
+    "dane_name_oficial": "Maicao",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "21052": {
+    "dane_code": "70235",
+    "dane_name_oficial": "Majagual",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21053": {
+    "dane_code": "8433",
+    "dane_name_oficial": "Malambo",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21054": {
+    "dane_code": "52435",
+    "dane_name_oficial": "Mallama",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21055": {
+    "dane_code": "8436",
+    "dane_name_oficial": "Manatí",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21056": {
+    "dane_code": "44560",
+    "dane_name_oficial": "Manaure",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "21058": {
+    "dane_code": "20443",
+    "dane_name_oficial": "Manaure Balcón del Cesar",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "21059": {
+    "dane_code": "17001",
+    "dane_name_oficial": "Manizales",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21060": {
+    "dane_code": "25436",
+    "dane_name_oficial": "Manta",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21061": {
+    "dane_code": "17433",
+    "dane_name_oficial": "Manzanares",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21062": {
+    "dane_code": "85139",
+    "dane_name_oficial": "Maní",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21063": {
+    "dane_code": "94663",
+    "dane_name_oficial": "Mapiripana",
+    "dept_code": "94",
+    "dept_name": "Guainía"
+  },
+  "21064": {
+    "dane_code": "50325",
+    "dane_name_oficial": "Mapiripán",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21065": {
+    "dane_code": "13440",
+    "dane_name_oficial": "Margarita",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21066": {
+    "dane_code": "5440",
+    "dane_name_oficial": "Marinilla",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21067": {
+    "dane_code": "15442",
+    "dane_name_oficial": "Maripí",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21068": {
+    "dane_code": "17442",
+    "dane_name_oficial": "Marmato",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21069": {
+    "dane_code": "17444",
+    "dane_name_oficial": "Marquetalia",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21070": {
+    "dane_code": "66440",
+    "dane_name_oficial": "Marsella",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "21071": {
+    "dane_code": "17446",
+    "dane_name_oficial": "Marulanda",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21072": {
+    "dane_code": "13442",
+    "dane_name_oficial": "María la Baja",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21073": {
+    "dane_code": "68444",
+    "dane_name_oficial": "Matanza",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21074": {
+    "dane_code": "5001",
+    "dane_name_oficial": "Medellín",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21075": {
+    "dane_code": "25438",
+    "dane_name_oficial": "Medina",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21076": {
+    "dane_code": "27425",
+    "dane_name_oficial": "Medio Atrato",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21077": {
+    "dane_code": "27430",
+    "dane_name_oficial": "Medio Baudó",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21078": {
+    "dane_code": "27450",
+    "dane_name_oficial": "Medio San Juan",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21079": {
+    "dane_code": "73449",
+    "dane_name_oficial": "Melgar",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21080": {
+    "dane_code": "19450",
+    "dane_name_oficial": "Mercaderes",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21081": {
+    "dane_code": "50330",
+    "dane_name_oficial": "Mesetas",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21082": {
+    "dane_code": "18460",
+    "dane_name_oficial": "Milán",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "21083": {
+    "dane_code": "15455",
+    "dane_name_oficial": "Miraflores",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21084": {
+    "dane_code": "95200",
+    "dane_name_oficial": "Miraflores",
+    "dept_code": "95",
+    "dept_name": "Guaviare"
+  },
+  "21085": {
+    "dane_code": "19455",
+    "dane_name_oficial": "Miranda",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21086": {
+    "dane_code": "91460",
+    "dane_name_oficial": "Mirití - Paraná",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "21087": {
+    "dane_code": "66456",
+    "dane_name_oficial": "Mistrató",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "21088": {
+    "dane_code": "97001",
+    "dane_name_oficial": "Mitú",
+    "dept_code": "97",
+    "dept_name": "Vaupés"
+  },
+  "21089": {
+    "dane_code": "86001",
+    "dane_name_oficial": "Mocoa",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21090": {
+    "dane_code": "68464",
+    "dane_name_oficial": "Mogotes",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21091": {
+    "dane_code": "68468",
+    "dane_name_oficial": "Molagavita",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21092": {
+    "dane_code": "23464",
+    "dane_name_oficial": "Momil",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21093": {
+    "dane_code": "13468",
+    "dane_name_oficial": "Mompós",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21094": {
+    "dane_code": "15464",
+    "dane_name_oficial": "Mongua",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21095": {
+    "dane_code": "15466",
+    "dane_name_oficial": "Monguí",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21096": {
+    "dane_code": "15469",
+    "dane_name_oficial": "Moniquirá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21097": {
+    "dane_code": "5467",
+    "dane_name_oficial": "Montebello",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21098": {
+    "dane_code": "13458",
+    "dane_name_oficial": "Montecristo",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21099": {
+    "dane_code": "23466",
+    "dane_name_oficial": "Montelíbano",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21100": {
+    "dane_code": "63470",
+    "dane_name_oficial": "Montenegro",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "21101": {
+    "dane_code": "85162",
+    "dane_name_oficial": "Monterrey",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21102": {
+    "dane_code": "23001",
+    "dane_name_oficial": "Montería",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21103": {
+    "dane_code": "13473",
+    "dane_name_oficial": "Morales",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21104": {
+    "dane_code": "19473",
+    "dane_name_oficial": "Morales",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21105": {
+    "dane_code": "18479",
+    "dane_name_oficial": "Morelia",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "21106": {
+    "dane_code": "94888",
+    "dane_name_oficial": "Morichal",
+    "dept_code": "94",
+    "dept_name": "Guainía"
+  },
+  "21107": {
+    "dane_code": "70265",
+    "dane_name_oficial": "Morroa",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21108": {
+    "dane_code": "25473",
+    "dane_name_oficial": "Mosquera",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21109": {
+    "dane_code": "52473",
+    "dane_name_oficial": "Mosquera",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21110": {
+    "dane_code": "15476",
+    "dane_name_oficial": "Motavita",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21112": {
+    "dane_code": "23500",
+    "dane_name_oficial": "Moñitos",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21117": {
+    "dane_code": "5664",
+    "dane_name_oficial": "San Pedro de los Milagros",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21119": {
+    "dane_code": "73461",
+    "dane_name_oficial": "Murillo",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21120": {
+    "dane_code": "5475",
+    "dane_name_oficial": "Murindó",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21121": {
+    "dane_code": "5480",
+    "dane_name_oficial": "Mutatá",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21122": {
+    "dane_code": "54480",
+    "dane_name_oficial": "Mutiscua",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21123": {
+    "dane_code": "15480",
+    "dane_name_oficial": "Muzo",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21124": {
+    "dane_code": "68432",
+    "dane_name_oficial": "Málaga",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21125": {
+    "dane_code": "5483",
+    "dane_name_oficial": "Nariño",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21126": {
+    "dane_code": "25483",
+    "dane_name_oficial": "Nariño",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21127": {
+    "dane_code": "52480",
+    "dane_name_oficial": "Nariño",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21128": {
+    "dane_code": "73483",
+    "dane_name_oficial": "Natagaima",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21129": {
+    "dane_code": "5495",
+    "dane_name_oficial": "Nechí",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21130": {
+    "dane_code": "5490",
+    "dane_name_oficial": "Necoclí",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21131": {
+    "dane_code": "17486",
+    "dane_name_oficial": "Neira",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21132": {
+    "dane_code": "25486",
+    "dane_name_oficial": "Nemocón",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21133": {
+    "dane_code": "25488",
+    "dane_name_oficial": "Nilo",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21134": {
+    "dane_code": "25489",
+    "dane_name_oficial": "Nimaima",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21135": {
+    "dane_code": "15491",
+    "dane_name_oficial": "Nobsa",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21136": {
+    "dane_code": "25491",
+    "dane_name_oficial": "Nocaima",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21137": {
+    "dane_code": "17495",
+    "dane_name_oficial": "Norcasia",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21138": {
+    "dane_code": "13490",
+    "dane_name_oficial": "Norosí",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21139": {
+    "dane_code": "47460",
+    "dane_name_oficial": "Nueva Granada",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21140": {
+    "dane_code": "15494",
+    "dane_name_oficial": "Nuevo Colón",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21141": {
+    "dane_code": "85225",
+    "dane_name_oficial": "Nunchía",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21142": {
+    "dane_code": "27495",
+    "dane_name_oficial": "Nuquí",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21143": {
+    "dane_code": "27491",
+    "dane_name_oficial": "Nóvita",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21144": {
+    "dane_code": "76497",
+    "dane_name_oficial": "Obando",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21145": {
+    "dane_code": "68498",
+    "dane_name_oficial": "Ocamonte",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21146": {
+    "dane_code": "54498",
+    "dane_name_oficial": "Ocaña",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21147": {
+    "dane_code": "68500",
+    "dane_name_oficial": "Oiba",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21148": {
+    "dane_code": "15500",
+    "dane_name_oficial": "Oicatá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21149": {
+    "dane_code": "5501",
+    "dane_name_oficial": "Olaya",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21150": {
+    "dane_code": "52490",
+    "dane_name_oficial": "Olaya Herrera",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21151": {
+    "dane_code": "68502",
+    "dane_name_oficial": "Onzaga",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21152": {
+    "dane_code": "86320",
+    "dane_name_oficial": "Orito",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21153": {
+    "dane_code": "85230",
+    "dane_name_oficial": "Orocué",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21154": {
+    "dane_code": "73504",
+    "dane_name_oficial": "Ortega",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21155": {
+    "dane_code": "52506",
+    "dane_name_oficial": "Ospina",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21156": {
+    "dane_code": "15507",
+    "dane_name_oficial": "Otanche",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21157": {
+    "dane_code": "70400",
+    "dane_name_oficial": "Ovejas",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21158": {
+    "dane_code": "15511",
+    "dane_name_oficial": "Pachavita",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21159": {
+    "dane_code": "25513",
+    "dane_name_oficial": "Pacho",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21160": {
+    "dane_code": "97511",
+    "dane_name_oficial": "Pacoa",
+    "dept_code": "97",
+    "dept_name": "Vaupés"
+  },
+  "21161": {
+    "dane_code": "19513",
+    "dane_name_oficial": "Padilla",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21163": {
+    "dane_code": "15514",
+    "dane_name_oficial": "Páez",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21164": {
+    "dane_code": "20517",
+    "dane_name_oficial": "Pailitas",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "21165": {
+    "dane_code": "25518",
+    "dane_name_oficial": "Paime",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21166": {
+    "dane_code": "15516",
+    "dane_name_oficial": "Paipa",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21168": {
+    "dane_code": "15518",
+    "dane_name_oficial": "Pajarito",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21169": {
+    "dane_code": "17524",
+    "dane_name_oficial": "Palestina",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21170": {
+    "dane_code": "68522",
+    "dane_name_oficial": "Palmar",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21171": {
+    "dane_code": "8520",
+    "dane_name_oficial": "Palmar de Varela",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21172": {
+    "dane_code": "68524",
+    "dane_name_oficial": "Palmas del Socorro",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21173": {
+    "dane_code": "76520",
+    "dane_name_oficial": "Palmira",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21174": {
+    "dane_code": "70418",
+    "dane_name_oficial": "Palmito",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21175": {
+    "dane_code": "73520",
+    "dane_name_oficial": "Palocabildo",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21176": {
+    "dane_code": "54518",
+    "dane_name_oficial": "Pamplona",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21177": {
+    "dane_code": "54520",
+    "dane_name_oficial": "Pamplonita",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21178": {
+    "dane_code": "94887",
+    "dane_name_oficial": "Pana Pana",
+    "dept_code": "94",
+    "dept_name": "Guainía"
+  },
+  "21179": {
+    "dane_code": "25524",
+    "dane_name_oficial": "Pandi",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21180": {
+    "dane_code": "15522",
+    "dane_name_oficial": "Panqueba",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21181": {
+    "dane_code": "97777",
+    "dane_name_oficial": "Papunaua",
+    "dept_code": "97",
+    "dept_name": "Vaupés"
+  },
+  "21182": {
+    "dane_code": "25530",
+    "dane_name_oficial": "Paratebueno",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21183": {
+    "dane_code": "25535",
+    "dane_name_oficial": "Pasca",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21184": {
+    "dane_code": "52001",
+    "dane_name_oficial": "Pasto",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21185": {
+    "dane_code": "19532",
+    "dane_name_oficial": "Patía",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21186": {
+    "dane_code": "15531",
+    "dane_name_oficial": "Pauna",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21187": {
+    "dane_code": "15533",
+    "dane_name_oficial": "Paya",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21190": {
+    "dane_code": "15537",
+    "dane_name_oficial": "Paz de Río",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21191": {
+    "dane_code": "47541",
+    "dane_name_oficial": "Pedraza",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21192": {
+    "dane_code": "20550",
+    "dane_name_oficial": "Pelaya",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "21193": {
+    "dane_code": "17541",
+    "dane_name_oficial": "Pensilvania",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21194": {
+    "dane_code": "5543",
+    "dane_name_oficial": "Peque",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21195": {
+    "dane_code": "66001",
+    "dane_name_oficial": "Pereira",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "21196": {
+    "dane_code": "15542",
+    "dane_name_oficial": "Pesca",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21197": {
+    "dane_code": "5541",
+    "dane_name_oficial": "Peñol",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21199": {
+    "dane_code": "68547",
+    "dane_name_oficial": "Piedecuesta",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21201": {
+    "dane_code": "73547",
+    "dane_name_oficial": "Piedras",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21202": {
+    "dane_code": "19548",
+    "dane_name_oficial": "Piendamó",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21204": {
+    "dane_code": "63548",
+    "dane_name_oficial": "Pijao",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "21205": {
+    "dane_code": "47545",
+    "dane_name_oficial": "Pijiño del Carmen",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21206": {
+    "dane_code": "68549",
+    "dane_name_oficial": "Pinchote",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21207": {
+    "dane_code": "13549",
+    "dane_name_oficial": "Pinillos",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21208": {
+    "dane_code": "8549",
+    "dane_name_oficial": "Piojó",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21209": {
+    "dane_code": "15550",
+    "dane_name_oficial": "Pisba",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21210": {
+    "dane_code": "47551",
+    "dane_name_oficial": "Pivijay",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21212": {
+    "dane_code": "73555",
+    "dane_name_oficial": "Planadas",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21213": {
+    "dane_code": "23555",
+    "dane_name_oficial": "Planeta Rica",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21214": {
+    "dane_code": "47555",
+    "dane_name_oficial": "Plato",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21216": {
+    "dane_code": "52540",
+    "dane_name_oficial": "Policarpa",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21217": {
+    "dane_code": "8558",
+    "dane_name_oficial": "Polonuevo",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21218": {
+    "dane_code": "8560",
+    "dane_name_oficial": "Ponedera",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21219": {
+    "dane_code": "19001",
+    "dane_name_oficial": "Popayán",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21220": {
+    "dane_code": "85263",
+    "dane_name_oficial": "Pore",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21221": {
+    "dane_code": "52560",
+    "dane_name_oficial": "Potosí",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21222": {
+    "dane_code": "76563",
+    "dane_name_oficial": "Pradera",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21223": {
+    "dane_code": "73563",
+    "dane_name_oficial": "Prado",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21224": {
+    "dane_code": "52565",
+    "dane_name_oficial": "Providencia",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21225": {
+    "dane_code": "23570",
+    "dane_name_oficial": "Pueblo Nuevo",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21226": {
+    "dane_code": "66572",
+    "dane_name_oficial": "Pueblo Rico",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "21227": {
+    "dane_code": "5576",
+    "dane_name_oficial": "Pueblorrico",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21228": {
+    "dane_code": "47570",
+    "dane_name_oficial": "Puebloviejo",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21229": {
+    "dane_code": "68572",
+    "dane_name_oficial": "Puente Nacional",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21230": {
+    "dane_code": "52573",
+    "dane_name_oficial": "Puerres",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21231": {
+    "dane_code": "91530",
+    "dane_name_oficial": "Puerto Alegría",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "21232": {
+    "dane_code": "91536",
+    "dane_name_oficial": "Puerto Arica",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "21233": {
+    "dane_code": "86568",
+    "dane_name_oficial": "Puerto Asís",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21234": {
+    "dane_code": "5579",
+    "dane_name_oficial": "Puerto Berrío",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21236": {
+    "dane_code": "15572",
+    "dane_name_oficial": "Puerto Boyacá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21237": {
+    "dane_code": "99001",
+    "dane_name_oficial": "Puerto Carreño",
+    "dept_code": "99",
+    "dept_name": "Vichada"
+  },
+  "21238": {
+    "dane_code": "8573",
+    "dane_name_oficial": "Puerto Colombia",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21239": {
+    "dane_code": "94884",
+    "dane_name_oficial": "Puerto Colombia",
+    "dept_code": "94",
+    "dept_name": "Guainía"
+  },
+  "21240": {
+    "dane_code": "50450",
+    "dane_name_oficial": "Puerto Concordia",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21241": {
+    "dane_code": "23574",
+    "dane_name_oficial": "Puerto Escondido",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21242": {
+    "dane_code": "50568",
+    "dane_name_oficial": "Puerto Gaitán",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21243": {
+    "dane_code": "86571",
+    "dane_name_oficial": "Puerto Guzmán",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21244": {
+    "dane_code": "86573",
+    "dane_name_oficial": "Puerto Leguízamo",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21245": {
+    "dane_code": "23580",
+    "dane_name_oficial": "Puerto Libertador",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21246": {
+    "dane_code": "50577",
+    "dane_name_oficial": "Puerto Lleras",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21247": {
+    "dane_code": "50573",
+    "dane_name_oficial": "Puerto López",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21248": {
+    "dane_code": "5585",
+    "dane_name_oficial": "Puerto Nare",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21249": {
+    "dane_code": "91540",
+    "dane_name_oficial": "Puerto Nariño",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "21250": {
+    "dane_code": "68573",
+    "dane_name_oficial": "Puerto Parra",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21251": {
+    "dane_code": "18592",
+    "dane_name_oficial": "Puerto Rico",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "21252": {
+    "dane_code": "50590",
+    "dane_name_oficial": "Puerto Rico",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21253": {
+    "dane_code": "81591",
+    "dane_name_oficial": "Puerto Rondón",
+    "dept_code": "81",
+    "dept_name": "Arauca"
+  },
+  "21254": {
+    "dane_code": "25572",
+    "dane_name_oficial": "Puerto Salgar",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21255": {
+    "dane_code": "54553",
+    "dane_name_oficial": "Puerto Santander",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21256": {
+    "dane_code": "91669",
+    "dane_name_oficial": "Puerto Santander",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "21257": {
+    "dane_code": "19573",
+    "dane_name_oficial": "Puerto Tejada",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21258": {
+    "dane_code": "5591",
+    "dane_name_oficial": "Puerto Triunfo",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21259": {
+    "dane_code": "68575",
+    "dane_name_oficial": "Puerto Wilches",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21261": {
+    "dane_code": "25580",
+    "dane_name_oficial": "Pulí",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21262": {
+    "dane_code": "52585",
+    "dane_name_oficial": "Pupiales",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21263": {
+    "dane_code": "19585",
+    "dane_name_oficial": "Puracé",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21264": {
+    "dane_code": "73585",
+    "dane_name_oficial": "Purificación",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21267": {
+    "dane_code": "17513",
+    "dane_name_oficial": "Pácora",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21268": {
+    "dane_code": "19517",
+    "dane_name_oficial": "Páez",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21269": {
+    "dane_code": "68533",
+    "dane_name_oficial": "Páramo",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21270": {
+    "dane_code": "25592",
+    "dane_name_oficial": "Quebradanegra",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21271": {
+    "dane_code": "25594",
+    "dane_name_oficial": "Quetame",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21272": {
+    "dane_code": "27001",
+    "dane_name_oficial": "Quibdó",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21273": {
+    "dane_code": "63594",
+    "dane_name_oficial": "Quimbaya",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "21274": {
+    "dane_code": "66594",
+    "dane_name_oficial": "Quinchía",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "21275": {
+    "dane_code": "25596",
+    "dane_name_oficial": "Quipile",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21276": {
+    "dane_code": "15580",
+    "dane_name_oficial": "Quípama",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21277": {
+    "dane_code": "54599",
+    "dane_name_oficial": "Ragonvalia",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21278": {
+    "dane_code": "15599",
+    "dane_name_oficial": "Ramiriquí",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21279": {
+    "dane_code": "85279",
+    "dane_name_oficial": "Recetor",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21280": {
+    "dane_code": "13580",
+    "dane_name_oficial": "Regidor",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21281": {
+    "dane_code": "5604",
+    "dane_name_oficial": "Remedios",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21282": {
+    "dane_code": "47605",
+    "dane_name_oficial": "Remolino",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21283": {
+    "dane_code": "8606",
+    "dane_name_oficial": "Repelón",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21284": {
+    "dane_code": "50606",
+    "dane_name_oficial": "Restrepo",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21285": {
+    "dane_code": "76606",
+    "dane_name_oficial": "Restrepo",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21286": {
+    "dane_code": "5607",
+    "dane_name_oficial": "Retiro",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21287": {
+    "dane_code": "25612",
+    "dane_name_oficial": "Ricaurte",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21288": {
+    "dane_code": "52612",
+    "dane_name_oficial": "Ricaurte",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21289": {
+    "dane_code": "73616",
+    "dane_name_oficial": "Rioblanco",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21290": {
+    "dane_code": "76616",
+    "dane_name_oficial": "Riofrío",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21291": {
+    "dane_code": "44001",
+    "dane_name_oficial": "Riohacha",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "21292": {
+    "dane_code": "5615",
+    "dane_name_oficial": "Rionegro",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21293": {
+    "dane_code": "68615",
+    "dane_name_oficial": "Rionegro",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21294": {
+    "dane_code": "17614",
+    "dane_name_oficial": "Riosucio",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21295": {
+    "dane_code": "27615",
+    "dane_name_oficial": "Riosucio",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21296": {
+    "dane_code": "17616",
+    "dane_name_oficial": "Risaralda",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21297": {
+    "dane_code": "52621",
+    "dane_name_oficial": "Roberto Payán",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21298": {
+    "dane_code": "76622",
+    "dane_name_oficial": "Roldanillo",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21299": {
+    "dane_code": "73622",
+    "dane_name_oficial": "Roncesvalles",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21300": {
+    "dane_code": "15621",
+    "dane_name_oficial": "Rondón",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21301": {
+    "dane_code": "19622",
+    "dane_name_oficial": "Rosas",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21302": {
+    "dane_code": "73624",
+    "dane_name_oficial": "Rovira",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21303": {
+    "dane_code": "15600",
+    "dane_name_oficial": "Ráquira",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21304": {
+    "dane_code": "27580",
+    "dane_name_oficial": "Río Iro",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21305": {
+    "dane_code": "27600",
+    "dane_name_oficial": "Río Quito",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21306": {
+    "dane_code": "13600",
+    "dane_name_oficial": "Río Viejo",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21307": {
+    "dane_code": "20614",
+    "dane_name_oficial": "Río de Oro",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "21308": {
+    "dane_code": "68655",
+    "dane_name_oficial": "Sabana de Torres",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21309": {
+    "dane_code": "8634",
+    "dane_name_oficial": "Sabanagrande",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21310": {
+    "dane_code": "5628",
+    "dane_name_oficial": "Sabanalarga",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21311": {
+    "dane_code": "8638",
+    "dane_name_oficial": "Sabanalarga",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21312": {
+    "dane_code": "85300",
+    "dane_name_oficial": "Sabanalarga",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21313": {
+    "dane_code": "47660",
+    "dane_name_oficial": "Sabanas de San Ángel",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21314": {
+    "dane_code": "5631",
+    "dane_name_oficial": "Sabaneta",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21315": {
+    "dane_code": "15632",
+    "dane_name_oficial": "Saboyá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21316": {
+    "dane_code": "23660",
+    "dane_name_oficial": "Sahagún",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21318": {
+    "dane_code": "17653",
+    "dane_name_oficial": "Salamina",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21319": {
+    "dane_code": "47675",
+    "dane_name_oficial": "Salamina",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21320": {
+    "dane_code": "54660",
+    "dane_name_oficial": "Salazar",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21321": {
+    "dane_code": "73671",
+    "dane_name_oficial": "Saldaña",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21322": {
+    "dane_code": "63690",
+    "dane_name_oficial": "Salento",
+    "dept_code": "63",
+    "dept_name": "Quindío"
+  },
+  "21323": {
+    "dane_code": "5642",
+    "dane_name_oficial": "Salgar",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21324": {
+    "dane_code": "15646",
+    "dane_name_oficial": "Samacá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21325": {
+    "dane_code": "52678",
+    "dane_name_oficial": "Samaniego",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21326": {
+    "dane_code": "17662",
+    "dane_name_oficial": "Samaná",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21327": {
+    "dane_code": "70523",
+    "dane_name_oficial": "Sampués",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21328": {
+    "dane_code": "20710",
+    "dane_name_oficial": "San Alberto",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "21330": {
+    "dane_code": "5647",
+    "dane_name_oficial": "San Andrés de Cuerquía",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21331": {
+    "dane_code": "68669",
+    "dane_name_oficial": "San Andrés",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21332": {
+    "dane_code": "88001",
+    "dane_name_oficial": "San Andrés",
+    "dept_code": "88",
+    "dept_name": "San Andrés y Providencia"
+  },
+  "21333": {
+    "dane_code": "23670",
+    "dane_name_oficial": "San Andrés de Sotavento",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21335": {
+    "dane_code": "23672",
+    "dane_name_oficial": "San Antero",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21337": {
+    "dane_code": "73675",
+    "dane_name_oficial": "San Antonio",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21338": {
+    "dane_code": "25645",
+    "dane_name_oficial": "San Antonio del Tequendama",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21339": {
+    "dane_code": "68673",
+    "dane_name_oficial": "San Benito",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21340": {
+    "dane_code": "70533",
+    "dane_name_oficial": "San Benito Abad",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21341": {
+    "dane_code": "25649",
+    "dane_name_oficial": "San Bernardo",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21342": {
+    "dane_code": "52685",
+    "dane_name_oficial": "San Bernardo",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21343": {
+    "dane_code": "23675",
+    "dane_name_oficial": "San Bernardo del Viento",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21344": {
+    "dane_code": "54670",
+    "dane_name_oficial": "San Calixto",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21345": {
+    "dane_code": "5649",
+    "dane_name_oficial": "San Carlos",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21346": {
+    "dane_code": "23678",
+    "dane_name_oficial": "San Carlos",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21347": {
+    "dane_code": "50680",
+    "dane_name_oficial": "San Carlos de Guaroa",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21348": {
+    "dane_code": "25653",
+    "dane_name_oficial": "San Cayetano",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21349": {
+    "dane_code": "54673",
+    "dane_name_oficial": "San Cayetano",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21350": {
+    "dane_code": "13620",
+    "dane_name_oficial": "San Cristóbal",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21351": {
+    "dane_code": "20750",
+    "dane_name_oficial": "San Diego",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "21352": {
+    "dane_code": "15660",
+    "dane_name_oficial": "San Eduardo",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21353": {
+    "dane_code": "13647",
+    "dane_name_oficial": "San Estanislao",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21354": {
+    "dane_code": "94883",
+    "dane_name_oficial": "San Felipe",
+    "dept_code": "94",
+    "dept_name": "Guainía"
+  },
+  "21355": {
+    "dane_code": "13650",
+    "dane_name_oficial": "San Fernando",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21356": {
+    "dane_code": "5652",
+    "dane_name_oficial": "San Francisco",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21357": {
+    "dane_code": "25658",
+    "dane_name_oficial": "San Francisco",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21358": {
+    "dane_code": "86749",
+    "dane_name_oficial": "San Francisco",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21359": {
+    "dane_code": "68679",
+    "dane_name_oficial": "San Gil",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21360": {
+    "dane_code": "13654",
+    "dane_name_oficial": "San Jacinto",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21361": {
+    "dane_code": "13655",
+    "dane_name_oficial": "San Jacinto del Cauca",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21362": {
+    "dane_code": "5656",
+    "dane_name_oficial": "San Jerónimo",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21363": {
+    "dane_code": "68682",
+    "dane_name_oficial": "San Joaquín",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21364": {
+    "dane_code": "17665",
+    "dane_name_oficial": "San José",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21366": {
+    "dane_code": "5658",
+    "dane_name_oficial": "San José de la Montaña",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21367": {
+    "dane_code": "68684",
+    "dane_name_oficial": "San José de Miranda",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21368": {
+    "dane_code": "15664",
+    "dane_name_oficial": "San José de Pare",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21369": {
+    "dane_code": "18610",
+    "dane_name_oficial": "San José del Fragua",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "21370": {
+    "dane_code": "95001",
+    "dane_name_oficial": "San José del Guaviare",
+    "dept_code": "95",
+    "dept_name": "Guaviare"
+  },
+  "21371": {
+    "dane_code": "27660",
+    "dane_name_oficial": "San José del Palmar",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21372": {
+    "dane_code": "13657",
+    "dane_name_oficial": "San Juan Nepomuceno",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21373": {
+    "dane_code": "50683",
+    "dane_name_oficial": "San Juan de Arama",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21374": {
+    "dane_code": "70560",
+    "dane_name_oficial": "San Juan de Betulia",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21375": {
+    "dane_code": "25662",
+    "dane_name_oficial": "San Juan de Río Seco",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21376": {
+    "dane_code": "5659",
+    "dane_name_oficial": "San Juan de Urabá",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21377": {
+    "dane_code": "44650",
+    "dane_name_oficial": "San Juan del Cesar",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "21378": {
+    "dane_code": "52687",
+    "dane_name_oficial": "San Lorenzo",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21379": {
+    "dane_code": "5660",
+    "dane_name_oficial": "San Luis",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21380": {
+    "dane_code": "15667",
+    "dane_name_oficial": "San Luis de Gaceno",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21381": {
+    "dane_code": "85325",
+    "dane_name_oficial": "San Luis de Palenque",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21382": {
+    "dane_code": "70565",
+    "dane_name_oficial": "San Luis de Sincé",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21383": {
+    "dane_code": "70670",
+    "dane_name_oficial": "San Marcos",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21384": {
+    "dane_code": "20770",
+    "dane_name_oficial": "San Martín",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "21385": {
+    "dane_code": "50689",
+    "dane_name_oficial": "San Martín",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21386": {
+    "dane_code": "13667",
+    "dane_name_oficial": "San Martín de Loba",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21387": {
+    "dane_code": "15673",
+    "dane_name_oficial": "San Mateo",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21388": {
+    "dane_code": "68686",
+    "dane_name_oficial": "San Miguel",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21389": {
+    "dane_code": "86755",
+    "dane_name_oficial": "San Miguel",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21390": {
+    "dane_code": "15676",
+    "dane_name_oficial": "San Miguel de Sema",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21391": {
+    "dane_code": "70678",
+    "dane_name_oficial": "San Onofre",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21392": {
+    "dane_code": "13670",
+    "dane_name_oficial": "San Pablo",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21393": {
+    "dane_code": "52693",
+    "dane_name_oficial": "San Pablo",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21394": {
+    "dane_code": "15681",
+    "dane_name_oficial": "San Pablo de Borbur",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21395": {
+    "dane_code": "70702",
+    "dane_name_oficial": "San Pedro",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21397": {
+    "dane_code": "76670",
+    "dane_name_oficial": "San Pedro",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21398": {
+    "dane_code": "52694",
+    "dane_name_oficial": "San Pedro de Cartago",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21399": {
+    "dane_code": "5665",
+    "dane_name_oficial": "San Pedro de Urabá",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21401": {
+    "dane_code": "23686",
+    "dane_name_oficial": "San Pelayo",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21402": {
+    "dane_code": "5667",
+    "dane_name_oficial": "San Rafael",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21403": {
+    "dane_code": "5670",
+    "dane_name_oficial": "San Roque",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21404": {
+    "dane_code": "19693",
+    "dane_name_oficial": "San Sebastián",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21407": {
+    "dane_code": "5674",
+    "dane_name_oficial": "San Vicente Ferrer",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21408": {
+    "dane_code": "68689",
+    "dane_name_oficial": "San Vicente de Chucurí",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21409": {
+    "dane_code": "47703",
+    "dane_name_oficial": "San Zenón",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21410": {
+    "dane_code": "52683",
+    "dane_name_oficial": "Sandoná",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21411": {
+    "dane_code": "47707",
+    "dane_name_oficial": "Santa Ana",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21412": {
+    "dane_code": "5679",
+    "dane_name_oficial": "Santa Bárbara",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21413": {
+    "dane_code": "52696",
+    "dane_name_oficial": "Santa Bárbara",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21414": {
+    "dane_code": "68705",
+    "dane_name_oficial": "Santa Bárbara",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21415": {
+    "dane_code": "47720",
+    "dane_name_oficial": "Santa Bárbara de Pinto",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21416": {
+    "dane_code": "13673",
+    "dane_name_oficial": "Santa Catalina",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21419": {
+    "dane_code": "73686",
+    "dane_name_oficial": "Santa Isabel",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21420": {
+    "dane_code": "8675",
+    "dane_name_oficial": "Santa Lucía",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21421": {
+    "dane_code": "47001",
+    "dane_name_oficial": "Santa Marta",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21422": {
+    "dane_code": "15690",
+    "dane_name_oficial": "Santa María",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21423": {
+    "dane_code": "13683",
+    "dane_name_oficial": "Santa Rosa",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21424": {
+    "dane_code": "66682",
+    "dane_name_oficial": "Santa Rosa de Cabal",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "21425": {
+    "dane_code": "5686",
+    "dane_name_oficial": "Santa Rosa de Osos",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21426": {
+    "dane_code": "15693",
+    "dane_name_oficial": "Santa Rosa de Viterbo",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21427": {
+    "dane_code": "13688",
+    "dane_name_oficial": "Santa Rosa del Sur",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21428": {
+    "dane_code": "99624",
+    "dane_name_oficial": "Santa Rosalía",
+    "dept_code": "99",
+    "dept_name": "Vichada"
+  },
+  "21430": {
+    "dane_code": "15696",
+    "dane_name_oficial": "Santa Sofía",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21431": {
+    "dane_code": "52699",
+    "dane_name_oficial": "Santacruz",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21433": {
+    "dane_code": "15686",
+    "dane_name_oficial": "Santana",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21434": {
+    "dane_code": "19698",
+    "dane_name_oficial": "Santander de Quilichao",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21435": {
+    "dane_code": "54680",
+    "dane_name_oficial": "Santiago",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21436": {
+    "dane_code": "86757",
+    "dane_name_oficial": "Santiago",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21438": {
+    "dane_code": "70713",
+    "dane_name_oficial": "Santiago de Tolú",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21439": {
+    "dane_code": "5690",
+    "dane_name_oficial": "Santo Domingo",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21440": {
+    "dane_code": "8685",
+    "dane_name_oficial": "Santo Tomás",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21441": {
+    "dane_code": "5697",
+    "dane_name_oficial": "El Santuario",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21442": {
+    "dane_code": "66687",
+    "dane_name_oficial": "Santuario",
+    "dept_code": "66",
+    "dept_name": "Risaralda"
+  },
+  "21443": {
+    "dane_code": "52720",
+    "dane_name_oficial": "Sapuyes",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21444": {
+    "dane_code": "81736",
+    "dane_name_oficial": "Saravena",
+    "dept_code": "81",
+    "dept_name": "Arauca"
+  },
+  "21445": {
+    "dane_code": "54720",
+    "dane_name_oficial": "Sardinata",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21446": {
+    "dane_code": "25718",
+    "dane_name_oficial": "Sasaima",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21447": {
+    "dane_code": "15723",
+    "dane_name_oficial": "Sativanorte",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21448": {
+    "dane_code": "15720",
+    "dane_name_oficial": "Sativasur",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21449": {
+    "dane_code": "5736",
+    "dane_name_oficial": "Segovia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21450": {
+    "dane_code": "25736",
+    "dane_name_oficial": "Sesquilé",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21451": {
+    "dane_code": "76736",
+    "dane_name_oficial": "Sevilla",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21452": {
+    "dane_code": "15740",
+    "dane_name_oficial": "Siachoque",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21453": {
+    "dane_code": "25740",
+    "dane_name_oficial": "Sibaté",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21454": {
+    "dane_code": "86865",
+    "dane_name_oficial": "Sibundoy",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21455": {
+    "dane_code": "54743",
+    "dane_name_oficial": "Silos",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21456": {
+    "dane_code": "25743",
+    "dane_name_oficial": "Silvania",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21457": {
+    "dane_code": "19743",
+    "dane_name_oficial": "Silvia",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21458": {
+    "dane_code": "68745",
+    "dane_name_oficial": "Simacota",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21459": {
+    "dane_code": "25745",
+    "dane_name_oficial": "Simijaca",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21460": {
+    "dane_code": "13744",
+    "dane_name_oficial": "Simití",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21461": {
+    "dane_code": "70001",
+    "dane_name_oficial": "Sincelejo",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21462": {
+    "dane_code": "27745",
+    "dane_name_oficial": "Sipí",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21463": {
+    "dane_code": "47745",
+    "dane_name_oficial": "Sitionuevo",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21464": {
+    "dane_code": "25754",
+    "dane_name_oficial": "Soacha",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21465": {
+    "dane_code": "15753",
+    "dane_name_oficial": "Soatá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21466": {
+    "dane_code": "15757",
+    "dane_name_oficial": "Socha",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21468": {
+    "dane_code": "68755",
+    "dane_name_oficial": "Socorro",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21469": {
+    "dane_code": "15755",
+    "dane_name_oficial": "Socotá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21470": {
+    "dane_code": "15759",
+    "dane_name_oficial": "Sogamoso",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21471": {
+    "dane_code": "18756",
+    "dane_name_oficial": "Solano",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "21472": {
+    "dane_code": "8758",
+    "dane_name_oficial": "Soledad",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21473": {
+    "dane_code": "15761",
+    "dane_name_oficial": "Somondoco",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21474": {
+    "dane_code": "5756",
+    "dane_name_oficial": "Sonsón",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21476": {
+    "dane_code": "5761",
+    "dane_name_oficial": "Sopetrán",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21477": {
+    "dane_code": "13760",
+    "dane_name_oficial": "Soplaviento",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21478": {
+    "dane_code": "25758",
+    "dane_name_oficial": "Sopó",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21479": {
+    "dane_code": "15762",
+    "dane_name_oficial": "Sora",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21480": {
+    "dane_code": "15764",
+    "dane_name_oficial": "Soracá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21481": {
+    "dane_code": "15763",
+    "dane_name_oficial": "Sotaquirá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21482": {
+    "dane_code": "19760",
+    "dane_name_oficial": "Sotara",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21484": {
+    "dane_code": "68770",
+    "dane_name_oficial": "Suaita",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21485": {
+    "dane_code": "8770",
+    "dane_name_oficial": "Suán",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21486": {
+    "dane_code": "25769",
+    "dane_name_oficial": "Subachoque",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21487": {
+    "dane_code": "19785",
+    "dane_name_oficial": "Sucre",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21488": {
+    "dane_code": "68773",
+    "dane_name_oficial": "Sucre",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21490": {
+    "dane_code": "25772",
+    "dane_name_oficial": "Suesca",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21491": {
+    "dane_code": "25777",
+    "dane_name_oficial": "Supatá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21492": {
+    "dane_code": "17777",
+    "dane_name_oficial": "Supía",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21493": {
+    "dane_code": "68780",
+    "dane_name_oficial": "Suratá",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21494": {
+    "dane_code": "25779",
+    "dane_name_oficial": "Susa",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21495": {
+    "dane_code": "15774",
+    "dane_name_oficial": "Susacón",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21496": {
+    "dane_code": "15776",
+    "dane_name_oficial": "Sutamarchán",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21497": {
+    "dane_code": "25781",
+    "dane_name_oficial": "Sutatausa",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21498": {
+    "dane_code": "15778",
+    "dane_name_oficial": "Sutatenza",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21499": {
+    "dane_code": "19780",
+    "dane_name_oficial": "Suárez",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21500": {
+    "dane_code": "73770",
+    "dane_name_oficial": "Suárez",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21501": {
+    "dane_code": "85315",
+    "dane_name_oficial": "Sácama",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21502": {
+    "dane_code": "15638",
+    "dane_name_oficial": "Sáchica",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21503": {
+    "dane_code": "25785",
+    "dane_name_oficial": "Tabio",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21504": {
+    "dane_code": "27787",
+    "dane_name_oficial": "Tadó",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21505": {
+    "dane_code": "13780",
+    "dane_name_oficial": "Talaigua Nuevo",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21507": {
+    "dane_code": "20787",
+    "dane_name_oficial": "Tamalameque",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "21508": {
+    "dane_code": "81794",
+    "dane_name_oficial": "Tame",
+    "dept_code": "81",
+    "dept_name": "Arauca"
+  },
+  "21509": {
+    "dane_code": "52786",
+    "dane_name_oficial": "Taminango",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21510": {
+    "dane_code": "52788",
+    "dane_name_oficial": "Tangua",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21511": {
+    "dane_code": "97666",
+    "dane_name_oficial": "Taraira",
+    "dept_code": "97",
+    "dept_name": "Vaupés"
+  },
+  "21512": {
+    "dane_code": "91798",
+    "dane_name_oficial": "Tarapacá",
+    "dept_code": "91",
+    "dept_name": "Amazonas"
+  },
+  "21513": {
+    "dane_code": "5790",
+    "dane_name_oficial": "Tarazá",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21514": {
+    "dane_code": "5792",
+    "dane_name_oficial": "Tarso",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21515": {
+    "dane_code": "15790",
+    "dane_name_oficial": "Tasco",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21516": {
+    "dane_code": "85410",
+    "dane_name_oficial": "Tauramena",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21517": {
+    "dane_code": "25793",
+    "dane_name_oficial": "Tausa",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21518": {
+    "dane_code": "25797",
+    "dane_name_oficial": "Tena",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21519": {
+    "dane_code": "47798",
+    "dane_name_oficial": "Tenerife",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21520": {
+    "dane_code": "25799",
+    "dane_name_oficial": "Tenjo",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21521": {
+    "dane_code": "15798",
+    "dane_name_oficial": "Tenza",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21522": {
+    "dane_code": "25805",
+    "dane_name_oficial": "Tibacuy",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21523": {
+    "dane_code": "15804",
+    "dane_name_oficial": "Tibaná",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21524": {
+    "dane_code": "15806",
+    "dane_name_oficial": "Tibasosa",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21525": {
+    "dane_code": "25807",
+    "dane_name_oficial": "Tibirita",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21526": {
+    "dane_code": "54810",
+    "dane_name_oficial": "Tibú",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21527": {
+    "dane_code": "23807",
+    "dane_name_oficial": "Tierralta",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21528": {
+    "dane_code": "19809",
+    "dane_name_oficial": "Timbiquí",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21529": {
+    "dane_code": "15808",
+    "dane_name_oficial": "Tinjacá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21530": {
+    "dane_code": "15810",
+    "dane_name_oficial": "Tipacoque",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21531": {
+    "dane_code": "13810",
+    "dane_name_oficial": "Tiquisio",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21532": {
+    "dane_code": "5809",
+    "dane_name_oficial": "Titiribí",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21533": {
+    "dane_code": "15814",
+    "dane_name_oficial": "Toca",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21534": {
+    "dane_code": "25815",
+    "dane_name_oficial": "Tocaima",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21535": {
+    "dane_code": "25817",
+    "dane_name_oficial": "Tocancipá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21536": {
+    "dane_code": "15816",
+    "dane_name_oficial": "Togüí",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21537": {
+    "dane_code": "5819",
+    "dane_name_oficial": "Toledo",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21538": {
+    "dane_code": "54820",
+    "dane_name_oficial": "Toledo",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21539": {
+    "dane_code": "70717",
+    "dane_name_oficial": "Tolú Viejo",
+    "dept_code": "70",
+    "dept_name": "Sucre"
+  },
+  "21540": {
+    "dane_code": "68820",
+    "dane_name_oficial": "Tona",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21541": {
+    "dane_code": "25823",
+    "dane_name_oficial": "Topaipí",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21542": {
+    "dane_code": "19821",
+    "dane_name_oficial": "Toribío",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21544": {
+    "dane_code": "76823",
+    "dane_name_oficial": "Toro",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21545": {
+    "dane_code": "15822",
+    "dane_name_oficial": "Tota",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21546": {
+    "dane_code": "19824",
+    "dane_name_oficial": "Totoró",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21548": {
+    "dane_code": "85430",
+    "dane_name_oficial": "Trinidad",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21549": {
+    "dane_code": "76828",
+    "dane_name_oficial": "Trujillo",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21550": {
+    "dane_code": "8832",
+    "dane_name_oficial": "Tubará",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21551": {
+    "dane_code": "76834",
+    "dane_name_oficial": "Tuluá",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21553": {
+    "dane_code": "15001",
+    "dane_name_oficial": "Tunja",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21554": {
+    "dane_code": "15832",
+    "dane_name_oficial": "Tununguá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21555": {
+    "dane_code": "13836",
+    "dane_name_oficial": "Turbaco",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21556": {
+    "dane_code": "13838",
+    "dane_name_oficial": "Turbaná",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21557": {
+    "dane_code": "5837",
+    "dane_name_oficial": "Turbo",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21558": {
+    "dane_code": "15835",
+    "dane_name_oficial": "Turmequé",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21559": {
+    "dane_code": "15837",
+    "dane_name_oficial": "Tuta",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21560": {
+    "dane_code": "15839",
+    "dane_name_oficial": "Tutazá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21561": {
+    "dane_code": "85400",
+    "dane_name_oficial": "Támara",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21562": {
+    "dane_code": "5789",
+    "dane_name_oficial": "Támesis",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21563": {
+    "dane_code": "15820",
+    "dane_name_oficial": "Tópaga",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21564": {
+    "dane_code": "52838",
+    "dane_name_oficial": "Túquerres",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21565": {
+    "dane_code": "25839",
+    "dane_name_oficial": "Ubalá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21566": {
+    "dane_code": "25841",
+    "dane_name_oficial": "Ubaque",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21567": {
+    "dane_code": "76845",
+    "dane_name_oficial": "Ulloa",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21568": {
+    "dane_code": "15842",
+    "dane_name_oficial": "Umbita",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21569": {
+    "dane_code": "25845",
+    "dane_name_oficial": "Une",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21570": {
+    "dane_code": "27800",
+    "dane_name_oficial": "Unguía",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21571": {
+    "dane_code": "27810",
+    "dane_name_oficial": "Unión Panamericana",
+    "dept_code": "27",
+    "dept_name": "Chocó"
+  },
+  "21572": {
+    "dane_code": "5842",
+    "dane_name_oficial": "Uramita",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21573": {
+    "dane_code": "44847",
+    "dane_name_oficial": "Uribia",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "21574": {
+    "dane_code": "5847",
+    "dane_name_oficial": "Urrao",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21575": {
+    "dane_code": "44855",
+    "dane_name_oficial": "Urumita",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "21576": {
+    "dane_code": "8849",
+    "dane_name_oficial": "Usiacurí",
+    "dept_code": "8",
+    "dept_name": "Atlántico"
+  },
+  "21577": {
+    "dane_code": "5854",
+    "dane_name_oficial": "Valdivia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21578": {
+    "dane_code": "23855",
+    "dane_name_oficial": "Valencia",
+    "dept_code": "23",
+    "dept_name": "Córdoba"
+  },
+  "21579": {
+    "dane_code": "68855",
+    "dane_name_oficial": "Valle de San José",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21580": {
+    "dane_code": "73854",
+    "dane_name_oficial": "Valle de San Juan",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21582": {
+    "dane_code": "20001",
+    "dane_name_oficial": "Valledupar",
+    "dept_code": "20",
+    "dept_name": "Cesar"
+  },
+  "21583": {
+    "dane_code": "5856",
+    "dane_name_oficial": "Valparaíso",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21584": {
+    "dane_code": "18860",
+    "dane_name_oficial": "Valparaíso",
+    "dept_code": "18",
+    "dept_name": "Caquetá"
+  },
+  "21585": {
+    "dane_code": "5858",
+    "dane_name_oficial": "Vegachí",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21586": {
+    "dane_code": "73861",
+    "dane_name_oficial": "Venadillo",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21587": {
+    "dane_code": "5861",
+    "dane_name_oficial": "Venecia",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21588": {
+    "dane_code": "25506",
+    "dane_name_oficial": "Venecia",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21589": {
+    "dane_code": "15861",
+    "dane_name_oficial": "Ventaquemada",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21590": {
+    "dane_code": "25862",
+    "dane_name_oficial": "Vergara",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21591": {
+    "dane_code": "76863",
+    "dane_name_oficial": "Versalles",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21592": {
+    "dane_code": "68867",
+    "dane_name_oficial": "Vetas",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21593": {
+    "dane_code": "25867",
+    "dane_name_oficial": "Vianí",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21594": {
+    "dane_code": "17867",
+    "dane_name_oficial": "Victoria",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21595": {
+    "dane_code": "5873",
+    "dane_name_oficial": "Vigía del Fuerte",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21596": {
+    "dane_code": "76869",
+    "dane_name_oficial": "Vijes",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21597": {
+    "dane_code": "19845",
+    "dane_name_oficial": "Villa Rica",
+    "dept_code": "19",
+    "dept_name": "Cauca"
+  },
+  "21598": {
+    "dane_code": "15407",
+    "dane_name_oficial": "Villa de Leyva",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21599": {
+    "dane_code": "25843",
+    "dane_name_oficial": "Villa de San Diego de Ubaté",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21601": {
+    "dane_code": "54874",
+    "dane_name_oficial": "Villa del Rosario",
+    "dept_code": "54",
+    "dept_name": "Norte de Santander"
+  },
+  "21602": {
+    "dane_code": "86895",
+    "dane_name_oficial": "Villagarzón",
+    "dept_code": "86",
+    "dept_name": "Putumayo"
+  },
+  "21603": {
+    "dane_code": "25871",
+    "dane_name_oficial": "Villagómez",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21604": {
+    "dane_code": "73870",
+    "dane_name_oficial": "Villahermosa",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21605": {
+    "dane_code": "17873",
+    "dane_name_oficial": "Villamaría",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21606": {
+    "dane_code": "13873",
+    "dane_name_oficial": "Villanueva",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21607": {
+    "dane_code": "44874",
+    "dane_name_oficial": "Villanueva",
+    "dept_code": "44",
+    "dept_name": "La Guajira"
+  },
+  "21608": {
+    "dane_code": "68872",
+    "dane_name_oficial": "Villanueva",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21609": {
+    "dane_code": "85440",
+    "dane_name_oficial": "Villanueva",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21610": {
+    "dane_code": "25873",
+    "dane_name_oficial": "Villapinzón",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21611": {
+    "dane_code": "73873",
+    "dane_name_oficial": "Villarrica",
+    "dept_code": "73",
+    "dept_name": "Tolima"
+  },
+  "21612": {
+    "dane_code": "50001",
+    "dane_name_oficial": "Villavicencio",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21613": {
+    "dane_code": "25875",
+    "dane_name_oficial": "Villeta",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21614": {
+    "dane_code": "25878",
+    "dane_name_oficial": "Viotá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21615": {
+    "dane_code": "15879",
+    "dane_name_oficial": "Viracachá",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21616": {
+    "dane_code": "50711",
+    "dane_name_oficial": "Vistahermosa",
+    "dept_code": "50",
+    "dept_name": "Meta"
+  },
+  "21617": {
+    "dane_code": "17877",
+    "dane_name_oficial": "Viterbo",
+    "dept_code": "17",
+    "dept_name": "Caldas"
+  },
+  "21618": {
+    "dane_code": "68861",
+    "dane_name_oficial": "Vélez",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21619": {
+    "dane_code": "25885",
+    "dane_name_oficial": "Yacopí",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21620": {
+    "dane_code": "52885",
+    "dane_name_oficial": "Yacuanquer",
+    "dept_code": "52",
+    "dept_name": "Nariño"
+  },
+  "21621": {
+    "dane_code": "5885",
+    "dane_name_oficial": "Yalí",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21622": {
+    "dane_code": "5887",
+    "dane_name_oficial": "Yarumal",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21623": {
+    "dane_code": "97889",
+    "dane_name_oficial": "Yavaraté",
+    "dept_code": "97",
+    "dept_name": "Vaupés"
+  },
+  "21624": {
+    "dane_code": "5890",
+    "dane_name_oficial": "Yolombó",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21625": {
+    "dane_code": "5893",
+    "dane_name_oficial": "Yondó",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21626": {
+    "dane_code": "85001",
+    "dane_name_oficial": "Yopal",
+    "dept_code": "85",
+    "dept_name": "Casanare"
+  },
+  "21627": {
+    "dane_code": "76890",
+    "dane_name_oficial": "Yotoco",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21628": {
+    "dane_code": "76892",
+    "dane_name_oficial": "Yumbo",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21629": {
+    "dane_code": "13894",
+    "dane_name_oficial": "Zambrano",
+    "dept_code": "13",
+    "dept_name": "Bolívar"
+  },
+  "21630": {
+    "dane_code": "68895",
+    "dane_name_oficial": "Zapatoca",
+    "dept_code": "68",
+    "dept_name": "Santander"
+  },
+  "21631": {
+    "dane_code": "47960",
+    "dane_name_oficial": "Zapayán",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21632": {
+    "dane_code": "5895",
+    "dane_name_oficial": "Zaragoza",
+    "dept_code": "5",
+    "dept_name": "Antioquia"
+  },
+  "21633": {
+    "dane_code": "76895",
+    "dane_name_oficial": "Zarzal",
+    "dept_code": "76",
+    "dept_name": "Valle del Cauca"
+  },
+  "21634": {
+    "dane_code": "15897",
+    "dane_name_oficial": "Zetaquira",
+    "dept_code": "15",
+    "dept_name": "Boyacá"
+  },
+  "21635": {
+    "dane_code": "25898",
+    "dane_name_oficial": "Zipacón",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21636": {
+    "dane_code": "25899",
+    "dane_name_oficial": "Zipaquirá",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  },
+  "21637": {
+    "dane_code": "47980",
+    "dane_name_oficial": "Zona Bananera",
+    "dept_code": "47",
+    "dept_name": "Magdalena"
+  },
+  "21640": {
+    "dane_code": "25851",
+    "dane_name_oficial": "Útica",
+    "dept_code": "25",
+    "dept_name": "Cundinamarca"
+  }
+}
