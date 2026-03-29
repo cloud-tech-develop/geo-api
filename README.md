@@ -31,20 +31,20 @@ curl -L "https://raw.githubusercontent.com/dr5hn/countries-states-cities-databas
 go run ./cmd/api
 ```
 
-El servidor inicia en `http://localhost:8080`.
+El servidor inicia en `http://localhost:8082`.
 
 ### 3. Con Docker
 
 ```bash
 docker build -t geo-api .
-docker run -p 8080:8080 geo-api
+docker run -p 8082:8082 geo-api
 ```
 
 ### 4. Variables de entorno
 
 | Variable        | Default                             | Descripción              |
 | --------------- | ----------------------------------- | ------------------------ |
-| `PORT`          | `8080`                              | Puerto del servidor      |
+| `PORT`          | `8082`                              | Puerto del servidor      |
 | `GEO_DATA_PATH` | `data/countries+states+cities.json` | Ruta al archivo de datos |
 
 ---
@@ -88,28 +88,28 @@ docker run -p 8080:8080 geo-api
 
 ```bash
 # Todos los países
-curl http://localhost:8080/countries
+curl http://localhost:8082/countries
 
 # Buscar países con "col" en el nombre
-curl "http://localhost:8080/countries?search=col"
+curl "http://localhost:8082/countries?search=col"
 
 # Detalle de Colombia
-curl http://localhost:8080/countries/CO
+curl http://localhost:8082/countries/CO
 
 # Departamentos de Colombia
-curl http://localhost:8080/countries/CO/states
+curl http://localhost:8082/countries/CO/states
 
 # Buscar departamentos con "antioquia"
-curl "http://localhost:8080/countries/CO/states?search=antioquia"
+curl "http://localhost:8082/countries/CO/states?search=antioquia"
 
 # Ciudades del estado con ID 2877 (Antioquia)
-curl http://localhost:8080/states/2877/cities
+curl http://localhost:8082/states/2877/cities
 
 # Buscar ciudades con "medellin" en Colombia
-curl "http://localhost:8080/countries/CO/cities?search=medellin"
+curl "http://localhost:8082/countries/CO/cities?search=medellin"
 
 # Estadísticas del dataset
-curl http://localhost:8080/stats
+curl http://localhost:8082/stats
 ```
 
 ---

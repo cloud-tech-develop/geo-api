@@ -12,8 +12,8 @@ WORKDIR /app
 COPY --from=builder /app/geo-api .
 COPY data/ ./data/
 
-ENV PORT=8080
+ENV PORT=8082
 ENV GEO_DATA_PATH=data/countries+states+cities.json
 
-EXPOSE 8080
+EXPOSE 8082
 CMD ["./geo-api"]

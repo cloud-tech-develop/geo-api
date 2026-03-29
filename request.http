@@ -1,18 +1,18 @@
 
 ## Obtener todos los paises
-# GET http://localhost:8080/countries/JP
+# GET http://localhost:8082/countries/JP
 # Content-Type: application/json
 
 ## Obtener todos los departamentos de un pais
 
-# GET http://localhost:8080/countries/CO/states
+# GET http://localhost:8082/countries/CO/states
 # Content-Type: application/json
 
 ## Obtener todas las ciudades de un departamento
 
-GET http://localhost:8080/states/2890/cities
+GET http://localhost:8082/states/2890/cities
 Content-Type: application/json
 
 
-# GET http://localhost:8080/cities/20522
+# GET http://localhost:8082/cities/20522
 # Content-Type: application/json

@@ -20,7 +20,7 @@ func main() {
 
 	dataPath := env("GEO_DATA_PATH", "data/countries+states+cities.json")
 	metadataPath := env("METADATA_PATH", "data/cities_metadata.json")
-	port := env("PORT", "8080")
+	port := env("PORT", "8082")
 
 	log.Printf("Loading geo data from %s …", dataPath)
 	start := time.Now()

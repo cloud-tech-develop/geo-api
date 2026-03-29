@@ -1,0 +1,60 @@
+[
+	{
+		"id": 1,
+		"name": "Colombia",
+		"iso2": "CO",
+		"iso3": "COL",
+		"phone_code": "57",
+		"capital": "Bogotá",
+		"currency": "COP",
+		"region": "Americas",
+		"subregion": "South America",
+		"emoji": "🇨🇴",
+		"states": [
+			{
+				"id": 100,
+				"name": "Antioquia",
+				"country_id": 1,
+				"country_code": "CO",
+				"state_code": "ANT",
+				"latitude": "6.2442",
+				"longitude": "-75.5812",
+				"cities": [
+					{
+						"id": 1000,
+						"name": "Medellín",
+						"state_id": 100,
+						"state_code": "ANT",
+						"country_id": 1,
+						"country_code": "CO",
+						"latitude": "6.2442",
+						"longitude": "-75.5812"
+					},
+					{
+						"id": 1001,
+						"name": "Bello",
+						"state_id": 100,
+						"state_code": "ANT",
+						"country_id": 1,
+						"country_code": "CO",
+						"latitude": "6.3374",
+						"longitude": "-75.5579"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Argentina",
+		"iso2": "AR",
+		"iso3": "ARG",
+		"phone_code": "54",
+		"capital": "Buenos Aires",
+		"currency": "ARS",
+		"region": "Americas",
+		"subregion": "South America",
+		"emoji": "🇦🇷",
+		"states": []
+	}
+]
