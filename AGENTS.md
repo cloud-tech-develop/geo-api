@@ -40,13 +40,14 @@ docker run -p 8082:8082 geo-api
 
 ## Environment Variables
 
-| Variable         | Default                             | Description           |
-| ---------------- | ----------------------------------- | --------------------- |
-| `PORT`           | `8082`                              | Server port           |
-| `GEO_DATA_PATH`  | `data/countries+states+cities.json` | Path to geo dataset   |
-| `METADATA_PATH`  | `data/cities_metadata.json`         | Path to city metadata |
-| `ADMIN_USER`     | -                                   | Admin API username    |
-| `ADMIN_PASSWORD` | -                                   | Admin API password    |
+| Variable         | Default                             | Description                    |
+| ---------------- | ----------------------------------- | ------------------------------ |
+| `PORT`           | `8082`                              | Server port                    |
+| `GEO_DATA_PATH`  | `data/countries+states+cities.json` | Path to geo dataset            |
+| `METADATA_PATH`  | `data/cities_metadata.json`        | Path to city metadata          |
+| `CORS_ORIGIN`    | `*`                                 | Allowed CORS origin (use specific origin for credentials) |
+| `ADMIN_USER`     | -                                   | Admin API username             |
+| `ADMIN_PASSWORD` | -                                   | Admin API password             |
 
 ## Project Structure
 
