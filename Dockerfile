@@ -12,6 +12,7 @@ WORKDIR /app
 COPY --from=builder /app/geo-api .
 COPY data/ ./data/
 COPY public/ ./public/
+COPY openapi.yaml ./
 
 ENV PORT=8082
 ENV GEO_DATA_PATH=data/countries+states+cities.json
