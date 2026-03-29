@@ -1,0 +1,323 @@
+openapi: 3.0.3
+info:
+  title: Geo API
+  description: API for countries, states, and cities with metadata editing.
+  version: 1.0.0
+servers:
+  - url: http://localhost:8080
+    description: Local server
+
+paths:
+  /health:
+    get:
+      summary: Health check
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    example: ok
+
+  /stats:
+    get:
+      summary: Get data statistics
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Stats'
+
+  /countries:
+    get:
+      summary: List countries
+      parameters:
+        - name: search
+          in: query
+          schema:
+            type: string
+        - name: page
+          in: query
+          schema:
+            type: integer
+            default: 1
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            default: 50
+      responses:
+        '200':
+          description: List of countries
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedCountries'
+
+  /countries/{iso2}:
+    get:
+      summary: Get country by ISO2 code
+      parameters:
+        - name: iso2
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Country details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CountrySummary'
+        '404':
+          description: Not found
+
+  /countries/{iso2}/states:
+    get:
+      summary: Get states of a country
+      parameters:
+        - name: iso2
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: search
+          in: query
+          schema:
+            type: string
+      responses:
+        '200':
+          description: List of states
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedStates'
+
+  /countries/{iso2}/cities:
+    get:
+      summary: Get all cities of a country
+      parameters:
+        - name: iso2
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: search
+          in: query
+          schema:
+            type: string
+      responses:
+        '200':
+          description: List of cities
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedCities'
+
+  /states/{id}:
+    get:
+      summary: Get state by ID
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: State details
+        '404':
+          description: Not found
+
+  /states/{id}/cities:
+    get:
+      summary: Get cities of a state
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: search
+          in: query
+          schema:
+            type: string
+      responses:
+        '200':
+          description: List of cities
+
+  /cities/{id}:
+    get:
+      summary: Get city by ID (including metadata)
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: City details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/CitySummary'
+        '404':
+          description: Not found
+
+  /admin/cities:
+    get:
+      summary: "[ADMIN] List all cities with filters"
+      security:
+        - basicAuth: []
+      parameters:
+        - name: search
+          in: query
+          schema:
+            type: string
+        - name: country
+          in: query
+          description: Filter by ISO2 country code
+          schema:
+            type: string
+        - name: state
+          in: query
+          description: Filter by State ID
+          schema:
+            type: integer
+        - name: page
+          in: query
+          schema:
+            type: integer
+        - name: limit
+          in: query
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Paginated city list
+        '401':
+          description: Unauthorized
+
+  /admin/cities/{id}/metadata:
+    put:
+      summary: "[ADMIN] Update city metadata"
+      security:
+        - basicAuth: []
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              additionalProperties: true
+      responses:
+        '200':
+          description: Metadata updated
+        '401':
+          description: Unauthorized
+
+components:
+  securitySchemes:
+    basicAuth:
+      type: http
+      scheme: basic
+
+  schemas:
+    Stats:
+      type: object
+      properties:
+        countries:
+          type: integer
+        states:
+          type: integer
+        cities:
+          type: integer
+
+    CountrySummary:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        iso2:
+          type: string
+        emoji:
+          type: string
+
+    CitySummary:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        state_id:
+          type: integer
+        state_code:
+          type: string
+        country_id:
+          type: integer
+        country_code:
+          type: string
+        latitude:
+          type: string
+        longitude:
+          type: string
+        metadata:
+          type: object
+          additionalProperties: true
+
+    PaginatedResponse:
+      type: object
+      properties:
+        total:
+          type: integer
+        page:
+          type: integer
+        limit:
+          type: integer
+
+    PaginatedCountries:
+      allOf:
+        - $ref: '#/components/schemas/PaginatedResponse'
+        - type: object
+          properties:
+            data:
+              type: array
+              items:
+                $ref: '#/components/schemas/CountrySummary'
+
+    PaginatedStates:
+      allOf:
+        - $ref: '#/components/schemas/PaginatedResponse'
+        - type: object
+          properties:
+            data:
+              type: array
+              items:
+                type: object
+
+    PaginatedCities:
+      allOf:
+        - $ref: '#/components/schemas/PaginatedResponse'
+        - type: object
+          properties:
+            data:
+              type: array
+              items:
+                $ref: '#/components/schemas/CitySummary'

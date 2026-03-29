@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geo API Master Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Geo Master Cities</h1>
+            <div style="display: flex; gap: 1rem; align-items: center;">
+                <a href="/docs" target="_blank" style="color: var(--primary); text-decoration: none; font-size: 0.875rem; font-weight: 500;">API Docs</a>
+                <div id="auth-status" class="text-muted"></div>
+            </div>
+        </header>
+
+        <div class="controls">
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search by name..." autocomplete="off">
+            </div>
+            <div class="filter-row">
+                <select id="country-filter">
+                    <option value="">All Countries</option>
+                </select>
+                <select id="state-filter" disabled>
+                    <option value="">All States</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="city-list" class="city-list">
+            <!-- Cities will be rendered here -->
+            <div class="loading">Loading cities...</div>
+        </div>
+
+        <div id="pagination" style="margin-top: 2rem; display: flex; justify-content: center; gap: 1rem;">
+            <!-- Simple pagination -->
+        </div>
+    </div>
+
+    <!-- Modal for editing metadata -->
+    <div id="edit-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-city-name">Edit City</h2>
+                <p id="modal-city-details" class="text-muted"></p>
+            </div>
+            <div id="metadata-fields">
+                <!-- Metadata key-value pairs -->
+            </div>
+            <button class="btn btn-secondary" onclick="addMetadataField()" style="width: 100%; border: 1px dashed var(--border); margin-top: 1rem; background: transparent; color: var(--text-muted);">
+                + Add Custom Field
+            </button>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" style="background: var(--border); color: white;" onclick="closeModal()">Cancel</button>
+                <button class="btn btn-primary" onclick="saveMetadata()">Save Changes</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
