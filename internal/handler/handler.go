@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/youruser/geo-api/internal/model"
-	"github.com/youruser/geo-api/internal/repository"
+	"github.com/cloud-tech-develop/geo-api/internal/model"
+	"github.com/cloud-tech-develop/geo-api/internal/repository"
 )
 
 type Handler struct {

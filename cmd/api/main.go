@@ -7,9 +7,9 @@ import (
 	"os"
 	"time"
 
+	"github.com/cloud-tech-develop/geo-api/internal/handler"
+	"github.com/cloud-tech-develop/geo-api/internal/repository"
 	"github.com/joho/godotenv"
-	"github.com/youruser/geo-api/internal/handler"
-	"github.com/youruser/geo-api/internal/repository"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/youruser/geo-api/internal/model"
+	"github.com/cloud-tech-develop/geo-api/internal/model"
 )
 
 func setupTestRepo(t *testing.T) *GeoRepository {

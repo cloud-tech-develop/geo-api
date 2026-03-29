@@ -1,4 +1,4 @@
-module github.com/youruser/geo-api
+module github.com/cloud-tech-develop/geo-api
 
 go 1.22
 

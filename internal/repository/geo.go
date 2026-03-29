@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/youruser/geo-api/internal/model"
+	"github.com/cloud-tech-develop/geo-api/internal/model"
 )
 
 // GeoRepository holds all geo data in memory and exposes query methods.
